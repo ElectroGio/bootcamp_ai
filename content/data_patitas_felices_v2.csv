@@ -1,0 +1,1001 @@
+id_mascota,raza,especie,edad,genero,tamaño,esterilizado,vacunado,necesita_tratamiento_especial,tiempo_en_adopcion,adoptado_en_30_dias
+1,Dutch rabbit,conejo,13,macho,grande,FALSE,FALSE,TRUE,21,FALSE
+2,Poodle,conejo,6,hembra,pequeño,TRUE,TRUE,TRUE,6,FALSE
+3,Bengal cat,gato,12,macho,grande,FALSE,FALSE,FALSE,74,FALSE
+4,Netherland Dwarf rabbit,conejo,17,macho,grande,TRUE,TRUE,TRUE,88,FALSE
+5,Siamese cat,gato,7,hembra,grande,TRUE,TRUE,FALSE,45,FALSE
+6,Persian cat,conejo,18,macho,mediano,FALSE,TRUE,FALSE,64,FALSE
+7,Dutch rabbit,conejo,12,hembra,grande,FALSE,TRUE,TRUE,76,FALSE
+8,Dutch rabbit,conejo,11,hembra,pequeño,TRUE,TRUE,FALSE,8,FALSE
+9,Holland Lop rabbit,conejo,4,macho,pequeño,FALSE,FALSE,TRUE,62,FALSE
+10,Flemish Giant rabbit,conejo,9,macho,mediano,TRUE,FALSE,TRUE,78,FALSE
+11,Netherland Dwarf rabbit,conejo,19,macho,mediano,TRUE,FALSE,FALSE,26,FALSE
+12,Siamese cat,gato,20,hembra,mediano,FALSE,FALSE,FALSE,34,FALSE
+13,Siberian Husky,perro,10,macho,pequeño,TRUE,FALSE,TRUE,30,FALSE
+14,Holland Lop rabbit,conejo,18,macho,pequeño,TRUE,FALSE,FALSE,,TRUE
+15,Mini Rex rabbit,conejo,11,macho,grande,FALSE,FALSE,TRUE,38,FALSE
+16,Scottish Fold cat,gato,10,hembra,mediano,FALSE,TRUE,FALSE,8,FALSE
+17,Scottish Fold cat,gato,12,macho,pequeño,FALSE,FALSE,FALSE,16,FALSE
+18,Mini Rex rabbit,conejo,14,macho,mediano,TRUE,FALSE,FALSE,,TRUE
+19,Scottish Fold cat,gato,15,macho,mediano,TRUE,FALSE,FALSE,84,FALSE
+20,Siberian Husky,perro,6,macho,mediano,FALSE,FALSE,FALSE,88,FALSE
+21,Flemish Giant rabbit,conejo,13,macho,grande,FALSE,FALSE,FALSE,,TRUE
+22,Mini Rex rabbit,conejo,8,macho,pequeño,FALSE,FALSE,TRUE,73,FALSE
+23,German Shepherd,perro,15,macho,mediano,FALSE,TRUE,FALSE,74,FALSE
+24,Flemish Giant rabbit,conejo,16,hembra,mediano,FALSE,FALSE,FALSE,84,FALSE
+25,Mini Rex rabbit,conejo,11,hembra,mediano,TRUE,TRUE,FALSE,43,FALSE
+26,Siberian Husky,perro,15,macho,grande,FALSE,TRUE,FALSE,84,FALSE
+27,Flemish Giant rabbit,conejo,8,hembra,mediano,TRUE,TRUE,TRUE,78,FALSE
+28,Dutch rabbit,conejo,8,hembra,mediano,TRUE,FALSE,TRUE,56,FALSE
+29,Poodle,conejo,19,macho,grande,TRUE,TRUE,TRUE,68,FALSE
+30,Flemish Giant rabbit,conejo,20,hembra,mediano,FALSE,FALSE,FALSE,57,FALSE
+31,Labrador Retriever,perro,9,hembra,pequeño,FALSE,FALSE,TRUE,89,FALSE
+32,Mini Rex rabbit,conejo,18,hembra,pequeño,FALSE,FALSE,TRUE,62,FALSE
+33,Flemish Giant rabbit,conejo,8,hembra,mediano,FALSE,FALSE,FALSE,31,FALSE
+34,German Shepherd,perro,9,hembra,pequeño,FALSE,TRUE,FALSE,43,FALSE
+35,Siberian Husky,perro,4,macho,pequeño,TRUE,FALSE,FALSE,55,FALSE
+36,Persian cat,conejo,20,hembra,pequeño,TRUE,FALSE,FALSE,,TRUE
+37,Holland Lop rabbit,conejo,5,macho,grande,TRUE,FALSE,FALSE,75,FALSE
+38,German Shepherd,perro,7,macho,grande,FALSE,FALSE,FALSE,56,FALSE
+39,Golden Retriever,perro,10,hembra,pequeño,TRUE,TRUE,TRUE,39,FALSE
+40,Labrador Retriever,perro,17,hembra,mediano,FALSE,FALSE,FALSE,47,FALSE
+41,Persian cat,conejo,19,hembra,pequeño,FALSE,TRUE,TRUE,81,FALSE
+42,Labrador Retriever,perro,16,macho,grande,FALSE,TRUE,FALSE,76,FALSE
+43,Netherland Dwarf rabbit,conejo,4,hembra,mediano,TRUE,TRUE,TRUE,62,FALSE
+44,Poodle,conejo,13,macho,pequeño,TRUE,FALSE,FALSE,29,FALSE
+45,Siberian Husky,perro,10,macho,pequeño,TRUE,FALSE,TRUE,9,FALSE
+46,Labrador Retriever,perro,20,macho,pequeño,TRUE,FALSE,TRUE,64,FALSE
+47,Bengal cat,gato,14,macho,grande,TRUE,TRUE,FALSE,31,FALSE
+48,Netherland Dwarf rabbit,conejo,9,macho,mediano,TRUE,TRUE,TRUE,9,FALSE
+49,Bengal cat,gato,6,hembra,pequeño,FALSE,TRUE,TRUE,65,FALSE
+50,Maine Coon cat,gato,7,macho,grande,TRUE,FALSE,TRUE,18,FALSE
+51,Flemish Giant rabbit,conejo,16,macho,mediano,FALSE,FALSE,FALSE,51,FALSE
+52,Siberian Husky,perro,13,hembra,pequeño,TRUE,FALSE,TRUE,71,FALSE
+53,Poodle,conejo,17,macho,grande,FALSE,FALSE,TRUE,40,FALSE
+54,Flemish Giant rabbit,conejo,15,hembra,pequeño,FALSE,TRUE,TRUE,,TRUE
+55,Netherland Dwarf rabbit,conejo,18,macho,grande,FALSE,TRUE,FALSE,90,FALSE
+56,Golden Retriever,perro,11,macho,pequeño,TRUE,TRUE,TRUE,77,FALSE
+57,Mini Rex rabbit,conejo,7,macho,mediano,FALSE,TRUE,FALSE,83,FALSE
+58,Siamese cat,gato,7,hembra,pequeño,TRUE,FALSE,TRUE,59,FALSE
+59,Flemish Giant rabbit,conejo,16,hembra,mediano,TRUE,FALSE,TRUE,26,FALSE
+60,Poodle,conejo,5,macho,pequeño,FALSE,FALSE,FALSE,60,FALSE
+61,Flemish Giant rabbit,conejo,16,hembra,grande,TRUE,FALSE,TRUE,83,FALSE
+62,Labrador Retriever,perro,11,hembra,grande,TRUE,FALSE,TRUE,84,FALSE
+63,Persian cat,conejo,16,macho,pequeño,TRUE,FALSE,TRUE,67,FALSE
+64,Netherland Dwarf rabbit,conejo,7,hembra,mediano,FALSE,FALSE,TRUE,15,FALSE
+65,Flemish Giant rabbit,conejo,11,hembra,pequeño,FALSE,FALSE,FALSE,40,FALSE
+66,Netherland Dwarf rabbit,conejo,12,macho,mediano,TRUE,FALSE,TRUE,22,FALSE
+67,Siberian Husky,perro,18,hembra,mediano,FALSE,FALSE,TRUE,90,FALSE
+68,Siberian Husky,perro,8,hembra,pequeño,FALSE,TRUE,TRUE,50,FALSE
+69,Poodle,conejo,11,macho,pequeño,FALSE,TRUE,TRUE,65,FALSE
+70,Dutch rabbit,conejo,14,hembra,grande,FALSE,TRUE,FALSE,34,FALSE
+71,Holland Lop rabbit,conejo,11,macho,grande,FALSE,TRUE,FALSE,53,FALSE
+72,Dutch rabbit,conejo,4,hembra,grande,TRUE,TRUE,FALSE,7,FALSE
+73,Mini Rex rabbit,conejo,5,macho,grande,TRUE,TRUE,TRUE,50,FALSE
+74,Labrador Retriever,perro,18,hembra,mediano,TRUE,FALSE,TRUE,6,FALSE
+75,Scottish Fold cat,gato,17,hembra,mediano,TRUE,TRUE,TRUE,61,FALSE
+76,Dutch rabbit,conejo,11,hembra,mediano,TRUE,TRUE,FALSE,59,FALSE
+77,Poodle,conejo,7,macho,grande,FALSE,FALSE,TRUE,71,FALSE
+78,Labrador Retriever,perro,11,macho,mediano,TRUE,FALSE,TRUE,30,FALSE
+79,Mini Rex rabbit,conejo,18,hembra,pequeño,FALSE,TRUE,TRUE,59,FALSE
+80,German Shepherd,perro,17,hembra,mediano,FALSE,FALSE,FALSE,84,FALSE
+81,Bengal cat,gato,5,hembra,grande,FALSE,FALSE,TRUE,79,FALSE
+82,Mini Rex rabbit,conejo,10,macho,pequeño,TRUE,FALSE,TRUE,80,FALSE
+83,Maine Coon cat,gato,20,hembra,mediano,FALSE,TRUE,TRUE,59,FALSE
+84,Bengal cat,gato,14,hembra,pequeño,TRUE,TRUE,TRUE,19,FALSE
+85,Flemish Giant rabbit,conejo,18,hembra,pequeño,FALSE,FALSE,FALSE,,TRUE
+86,Labrador Retriever,perro,17,macho,grande,FALSE,FALSE,FALSE,21,FALSE
+87,German Shepherd,perro,18,macho,pequeño,TRUE,TRUE,TRUE,53,FALSE
+88,Mini Rex rabbit,conejo,9,macho,pequeño,TRUE,FALSE,TRUE,86,FALSE
+89,Golden Retriever,perro,8,macho,grande,FALSE,TRUE,FALSE,67,FALSE
+90,Siberian Husky,perro,4,macho,grande,FALSE,FALSE,TRUE,41,FALSE
+91,Netherland Dwarf rabbit,conejo,13,macho,mediano,TRUE,TRUE,FALSE,64,FALSE
+92,German Shepherd,perro,16,hembra,mediano,FALSE,FALSE,FALSE,15,FALSE
+93,Siberian Husky,perro,10,macho,pequeño,TRUE,FALSE,FALSE,67,FALSE
+94,Flemish Giant rabbit,conejo,7,macho,grande,FALSE,FALSE,FALSE,81,FALSE
+95,Dutch rabbit,conejo,11,macho,grande,FALSE,FALSE,FALSE,37,FALSE
+96,Labrador Retriever,perro,8,macho,grande,TRUE,FALSE,TRUE,33,FALSE
+97,Bengal cat,gato,14,macho,grande,TRUE,FALSE,FALSE,13,FALSE
+98,Poodle,conejo,11,macho,mediano,TRUE,TRUE,FALSE,46,FALSE
+99,Siberian Husky,perro,7,macho,grande,FALSE,FALSE,FALSE,12,FALSE
+100,Golden Retriever,perro,16,macho,pequeño,FALSE,FALSE,FALSE,19,FALSE
+101,Holland Lop rabbit,conejo,10,hembra,pequeño,FALSE,TRUE,TRUE,36,FALSE
+102,Poodle,conejo,20,hembra,grande,FALSE,TRUE,TRUE,10,FALSE
+103,Persian cat,conejo,6,hembra,pequeño,TRUE,TRUE,TRUE,19,FALSE
+104,Mini Rex rabbit,conejo,19,hembra,grande,FALSE,TRUE,FALSE,38,FALSE
+105,Mini Rex rabbit,conejo,11,hembra,grande,TRUE,FALSE,FALSE,69,FALSE
+106,Netherland Dwarf rabbit,conejo,19,hembra,grande,TRUE,FALSE,FALSE,69,FALSE
+107,Dutch rabbit,conejo,20,macho,grande,TRUE,TRUE,FALSE,29,FALSE
+108,Mini Rex rabbit,conejo,4,macho,grande,FALSE,FALSE,FALSE,24,FALSE
+109,Flemish Giant rabbit,conejo,18,hembra,pequeño,FALSE,FALSE,TRUE,68,FALSE
+110,Poodle,conejo,15,hembra,grande,TRUE,TRUE,TRUE,57,FALSE
+111,Scottish Fold cat,gato,15,macho,pequeño,FALSE,FALSE,TRUE,33,FALSE
+112,Flemish Giant rabbit,conejo,15,hembra,grande,FALSE,FALSE,TRUE,67,FALSE
+113,Holland Lop rabbit,conejo,8,macho,grande,TRUE,TRUE,TRUE,28,FALSE
+114,Siberian Husky,perro,20,hembra,mediano,FALSE,FALSE,FALSE,56,FALSE
+115,Labrador Retriever,perro,19,macho,pequeño,TRUE,TRUE,FALSE,90,FALSE
+116,Golden Retriever,perro,8,macho,pequeño,TRUE,FALSE,FALSE,27,FALSE
+117,Flemish Giant rabbit,conejo,18,hembra,mediano,FALSE,FALSE,TRUE,45,FALSE
+118,Netherland Dwarf rabbit,conejo,12,macho,grande,TRUE,FALSE,FALSE,15,FALSE
+119,Siberian Husky,perro,6,hembra,grande,FALSE,FALSE,TRUE,58,FALSE
+120,Siberian Husky,perro,6,hembra,pequeño,TRUE,FALSE,FALSE,65,FALSE
+121,Persian cat,conejo,14,macho,pequeño,TRUE,FALSE,FALSE,77,FALSE
+122,Maine Coon cat,gato,5,hembra,mediano,TRUE,TRUE,FALSE,14,FALSE
+123,Golden Retriever,perro,5,macho,mediano,FALSE,FALSE,FALSE,6,FALSE
+124,Holland Lop rabbit,conejo,20,hembra,pequeño,FALSE,FALSE,FALSE,66,FALSE
+125,Siberian Husky,perro,17,macho,mediano,TRUE,TRUE,TRUE,48,FALSE
+126,Netherland Dwarf rabbit,conejo,6,macho,mediano,TRUE,FALSE,FALSE,60,FALSE
+127,Persian cat,conejo,4,macho,grande,FALSE,TRUE,TRUE,43,FALSE
+128,Siberian Husky,perro,12,macho,mediano,TRUE,FALSE,FALSE,69,FALSE
+129,Golden Retriever,perro,18,macho,mediano,FALSE,FALSE,FALSE,13,FALSE
+130,Dutch rabbit,conejo,9,macho,pequeño,TRUE,FALSE,TRUE,8,FALSE
+131,Flemish Giant rabbit,conejo,8,hembra,pequeño,TRUE,FALSE,FALSE,26,FALSE
+132,German Shepherd,perro,20,hembra,grande,TRUE,TRUE,FALSE,51,FALSE
+133,German Shepherd,perro,14,hembra,grande,FALSE,TRUE,FALSE,25,FALSE
+134,Poodle,conejo,18,hembra,grande,TRUE,TRUE,TRUE,13,FALSE
+135,Dutch rabbit,conejo,11,hembra,mediano,FALSE,FALSE,TRUE,6,FALSE
+136,Holland Lop rabbit,conejo,17,macho,mediano,FALSE,FALSE,FALSE,83,FALSE
+137,Bengal cat,gato,20,macho,mediano,FALSE,TRUE,TRUE,46,FALSE
+138,Siamese cat,gato,6,macho,grande,TRUE,FALSE,TRUE,53,FALSE
+139,Netherland Dwarf rabbit,conejo,7,hembra,pequeño,TRUE,FALSE,FALSE,13,FALSE
+140,Bengal cat,gato,10,hembra,pequeño,FALSE,FALSE,TRUE,38,FALSE
+141,Persian cat,conejo,18,macho,grande,TRUE,TRUE,FALSE,22,FALSE
+142,Netherland Dwarf rabbit,conejo,19,macho,pequeño,TRUE,TRUE,TRUE,34,FALSE
+143,German Shepherd,perro,20,macho,mediano,TRUE,FALSE,FALSE,73,FALSE
+144,Golden Retriever,perro,6,macho,grande,FALSE,TRUE,TRUE,77,FALSE
+145,Holland Lop rabbit,conejo,13,macho,grande,FALSE,TRUE,FALSE,34,FALSE
+146,Flemish Giant rabbit,conejo,16,hembra,grande,TRUE,FALSE,TRUE,56,FALSE
+147,Poodle,conejo,14,macho,grande,TRUE,TRUE,TRUE,55,FALSE
+148,Persian cat,conejo,12,hembra,mediano,TRUE,FALSE,TRUE,81,FALSE
+149,Poodle,conejo,5,hembra,mediano,TRUE,FALSE,FALSE,83,FALSE
+150,German Shepherd,perro,13,hembra,pequeño,TRUE,FALSE,TRUE,83,FALSE
+151,Labrador Retriever,perro,5,macho,mediano,FALSE,TRUE,FALSE,14,FALSE
+152,Persian cat,conejo,9,hembra,pequeño,TRUE,FALSE,FALSE,73,FALSE
+153,Poodle,conejo,6,hembra,grande,FALSE,TRUE,FALSE,,TRUE
+154,Flemish Giant rabbit,conejo,9,hembra,pequeño,TRUE,TRUE,FALSE,24,FALSE
+155,Siamese cat,gato,7,hembra,pequeño,FALSE,FALSE,FALSE,34,FALSE
+156,Dutch rabbit,conejo,7,hembra,grande,TRUE,TRUE,FALSE,15,FALSE
+157,Siberian Husky,perro,4,macho,pequeño,FALSE,TRUE,FALSE,35,FALSE
+158,Netherland Dwarf rabbit,conejo,14,hembra,mediano,TRUE,FALSE,FALSE,15,FALSE
+159,Mini Rex rabbit,conejo,16,hembra,grande,FALSE,FALSE,FALSE,34,FALSE
+160,Dutch rabbit,conejo,6,hembra,grande,FALSE,FALSE,TRUE,43,FALSE
+161,Labrador Retriever,perro,5,hembra,pequeño,TRUE,TRUE,FALSE,48,FALSE
+162,German Shepherd,perro,10,hembra,pequeño,TRUE,TRUE,FALSE,13,FALSE
+163,Persian cat,conejo,6,hembra,mediano,TRUE,TRUE,FALSE,64,FALSE
+164,Maine Coon cat,gato,20,macho,grande,FALSE,FALSE,TRUE,30,FALSE
+165,Siamese cat,gato,8,hembra,mediano,FALSE,TRUE,TRUE,,TRUE
+166,Siamese cat,gato,13,macho,mediano,TRUE,TRUE,FALSE,84,FALSE
+167,Bengal cat,gato,13,macho,mediano,TRUE,FALSE,FALSE,88,FALSE
+168,Netherland Dwarf rabbit,conejo,4,hembra,pequeño,TRUE,TRUE,TRUE,21,FALSE
+169,Poodle,conejo,9,hembra,mediano,FALSE,TRUE,FALSE,74,FALSE
+170,Poodle,conejo,9,hembra,mediano,FALSE,TRUE,TRUE,20,FALSE
+171,Bengal cat,gato,5,macho,mediano,TRUE,FALSE,FALSE,84,FALSE
+172,Mini Rex rabbit,conejo,12,macho,grande,FALSE,FALSE,FALSE,7,FALSE
+173,Bengal cat,gato,15,hembra,pequeño,TRUE,FALSE,TRUE,46,FALSE
+174,Siberian Husky,perro,11,hembra,mediano,FALSE,TRUE,FALSE,43,FALSE
+175,Golden Retriever,perro,14,hembra,grande,TRUE,FALSE,TRUE,48,FALSE
+176,Maine Coon cat,gato,5,hembra,pequeño,TRUE,TRUE,FALSE,76,FALSE
+177,Netherland Dwarf rabbit,conejo,16,macho,grande,TRUE,TRUE,TRUE,80,FALSE
+178,Persian cat,conejo,19,macho,grande,FALSE,FALSE,TRUE,11,FALSE
+179,Mini Rex rabbit,conejo,14,hembra,mediano,TRUE,FALSE,TRUE,36,FALSE
+180,Netherland Dwarf rabbit,conejo,7,macho,mediano,FALSE,TRUE,FALSE,25,FALSE
+181,Dutch rabbit,conejo,16,macho,pequeño,TRUE,TRUE,FALSE,42,FALSE
+182,Siberian Husky,perro,12,hembra,grande,TRUE,FALSE,TRUE,16,FALSE
+183,Siamese cat,gato,19,macho,grande,FALSE,TRUE,FALSE,18,FALSE
+184,Persian cat,conejo,17,hembra,pequeño,FALSE,TRUE,FALSE,7,FALSE
+185,Mini Rex rabbit,conejo,9,macho,pequeño,TRUE,TRUE,TRUE,50,FALSE
+186,Netherland Dwarf rabbit,conejo,6,macho,mediano,FALSE,FALSE,TRUE,32,FALSE
+187,Holland Lop rabbit,conejo,6,hembra,mediano,TRUE,FALSE,FALSE,83,FALSE
+188,Scottish Fold cat,gato,10,macho,pequeño,FALSE,TRUE,FALSE,30,FALSE
+189,Poodle,conejo,11,hembra,pequeño,TRUE,TRUE,TRUE,56,FALSE
+190,Mini Rex rabbit,conejo,11,hembra,mediano,FALSE,FALSE,FALSE,32,FALSE
+191,Flemish Giant rabbit,conejo,20,hembra,mediano,FALSE,FALSE,TRUE,10,FALSE
+192,Persian cat,conejo,9,macho,pequeño,FALSE,FALSE,FALSE,27,FALSE
+193,Golden Retriever,perro,18,macho,grande,TRUE,TRUE,FALSE,89,FALSE
+194,Bengal cat,gato,20,macho,mediano,FALSE,FALSE,FALSE,14,FALSE
+195,Poodle,conejo,14,macho,pequeño,FALSE,FALSE,FALSE,75,FALSE
+196,Bengal cat,gato,15,macho,mediano,FALSE,TRUE,TRUE,23,FALSE
+197,Labrador Retriever,perro,9,macho,mediano,FALSE,FALSE,FALSE,32,FALSE
+198,Labrador Retriever,perro,16,hembra,mediano,TRUE,TRUE,FALSE,67,FALSE
+199,Poodle,conejo,4,hembra,mediano,TRUE,TRUE,TRUE,29,FALSE
+200,Maine Coon cat,gato,19,macho,grande,FALSE,FALSE,TRUE,21,FALSE
+201,Golden Retriever,perro,18,macho,grande,FALSE,FALSE,TRUE,83,FALSE
+202,German Shepherd,perro,9,macho,mediano,TRUE,FALSE,TRUE,43,FALSE
+203,Holland Lop rabbit,conejo,8,hembra,pequeño,TRUE,FALSE,TRUE,65,FALSE
+204,Siamese cat,gato,13,macho,pequeño,TRUE,TRUE,TRUE,17,FALSE
+205,German Shepherd,perro,19,macho,grande,TRUE,FALSE,TRUE,24,FALSE
+206,Siamese cat,gato,16,hembra,pequeño,TRUE,FALSE,TRUE,8,FALSE
+207,Dutch rabbit,conejo,7,macho,grande,TRUE,FALSE,FALSE,82,FALSE
+208,Maine Coon cat,gato,16,macho,pequeño,FALSE,TRUE,TRUE,84,FALSE
+209,Maine Coon cat,gato,17,macho,mediano,TRUE,TRUE,FALSE,74,FALSE
+210,Poodle,conejo,14,macho,grande,FALSE,FALSE,TRUE,37,FALSE
+211,Holland Lop rabbit,conejo,11,macho,mediano,TRUE,FALSE,TRUE,35,FALSE
+212,Dutch rabbit,conejo,11,macho,mediano,TRUE,TRUE,TRUE,77,FALSE
+213,Bengal cat,gato,19,hembra,grande,TRUE,FALSE,FALSE,85,FALSE
+214,Maine Coon cat,gato,4,hembra,grande,TRUE,TRUE,TRUE,48,FALSE
+215,Mini Rex rabbit,conejo,18,hembra,mediano,FALSE,TRUE,TRUE,83,FALSE
+216,Golden Retriever,perro,11,hembra,mediano,TRUE,FALSE,TRUE,65,FALSE
+217,Holland Lop rabbit,conejo,20,hembra,mediano,FALSE,TRUE,FALSE,,TRUE
+218,Mini Rex rabbit,conejo,14,hembra,mediano,TRUE,FALSE,TRUE,88,FALSE
+219,Persian cat,conejo,19,macho,pequeño,FALSE,FALSE,TRUE,70,FALSE
+220,Maine Coon cat,gato,20,hembra,mediano,TRUE,FALSE,TRUE,88,FALSE
+221,Holland Lop rabbit,conejo,20,hembra,pequeño,TRUE,TRUE,FALSE,73,FALSE
+222,Poodle,conejo,4,macho,mediano,FALSE,FALSE,TRUE,25,FALSE
+223,Dutch rabbit,conejo,13,macho,mediano,TRUE,FALSE,FALSE,32,FALSE
+224,Holland Lop rabbit,conejo,6,macho,pequeño,FALSE,FALSE,FALSE,88,FALSE
+225,Labrador Retriever,perro,15,macho,pequeño,FALSE,TRUE,FALSE,24,FALSE
+226,Siamese cat,gato,4,hembra,mediano,FALSE,FALSE,TRUE,87,FALSE
+227,German Shepherd,perro,6,macho,mediano,TRUE,FALSE,TRUE,23,FALSE
+228,German Shepherd,perro,14,macho,mediano,FALSE,TRUE,FALSE,90,FALSE
+229,Netherland Dwarf rabbit,conejo,19,macho,pequeño,TRUE,FALSE,TRUE,60,FALSE
+230,Siberian Husky,perro,20,hembra,mediano,FALSE,TRUE,TRUE,73,FALSE
+231,Maine Coon cat,gato,4,hembra,pequeño,TRUE,FALSE,TRUE,23,FALSE
+232,Netherland Dwarf rabbit,conejo,19,hembra,grande,FALSE,FALSE,TRUE,30,FALSE
+233,Scottish Fold cat,gato,14,macho,pequeño,FALSE,TRUE,FALSE,21,FALSE
+234,Bengal cat,gato,4,hembra,grande,TRUE,FALSE,FALSE,83,FALSE
+235,German Shepherd,perro,9,hembra,pequeño,FALSE,FALSE,FALSE,84,FALSE
+236,Flemish Giant rabbit,conejo,5,macho,mediano,TRUE,TRUE,TRUE,50,FALSE
+237,Golden Retriever,perro,5,hembra,mediano,TRUE,TRUE,TRUE,37,FALSE
+238,Labrador Retriever,perro,6,hembra,pequeño,FALSE,TRUE,FALSE,84,FALSE
+239,Siberian Husky,perro,12,macho,grande,FALSE,TRUE,FALSE,24,FALSE
+240,Bengal cat,gato,4,hembra,mediano,TRUE,FALSE,FALSE,82,FALSE
+241,Holland Lop rabbit,conejo,18,macho,grande,TRUE,FALSE,FALSE,5,FALSE
+242,Poodle,conejo,10,hembra,mediano,FALSE,FALSE,TRUE,30,FALSE
+243,Dutch rabbit,conejo,9,macho,mediano,FALSE,FALSE,FALSE,90,FALSE
+244,Dutch rabbit,conejo,6,macho,mediano,TRUE,TRUE,TRUE,41,FALSE
+245,Persian cat,conejo,15,hembra,mediano,FALSE,TRUE,FALSE,,TRUE
+246,Golden Retriever,perro,20,macho,pequeño,TRUE,FALSE,FALSE,68,FALSE
+247,Persian cat,conejo,8,macho,mediano,FALSE,FALSE,FALSE,26,FALSE
+248,Golden Retriever,perro,15,hembra,mediano,TRUE,TRUE,TRUE,53,FALSE
+249,Netherland Dwarf rabbit,conejo,8,macho,pequeño,TRUE,TRUE,FALSE,63,FALSE
+250,Dutch rabbit,conejo,18,macho,grande,TRUE,TRUE,TRUE,88,FALSE
+251,Dutch rabbit,conejo,17,hembra,pequeño,FALSE,TRUE,FALSE,,TRUE
+252,Persian cat,conejo,18,hembra,grande,TRUE,TRUE,FALSE,15,FALSE
+253,Poodle,conejo,13,hembra,grande,TRUE,FALSE,FALSE,74,FALSE
+254,German Shepherd,perro,5,macho,mediano,TRUE,TRUE,TRUE,31,FALSE
+255,Poodle,conejo,7,macho,pequeño,FALSE,FALSE,TRUE,28,FALSE
+256,Siberian Husky,perro,6,macho,pequeño,TRUE,TRUE,TRUE,56,FALSE
+257,Persian cat,conejo,7,hembra,grande,TRUE,FALSE,FALSE,21,FALSE
+258,Persian cat,conejo,12,macho,grande,TRUE,TRUE,FALSE,59,FALSE
+259,Netherland Dwarf rabbit,conejo,12,hembra,grande,TRUE,FALSE,FALSE,45,FALSE
+260,Holland Lop rabbit,conejo,17,macho,pequeño,FALSE,FALSE,TRUE,7,FALSE
+261,German Shepherd,perro,4,hembra,mediano,FALSE,FALSE,FALSE,90,FALSE
+262,Maine Coon cat,gato,19,hembra,grande,TRUE,FALSE,TRUE,29,FALSE
+263,Golden Retriever,perro,20,hembra,mediano,FALSE,TRUE,TRUE,34,FALSE
+264,Labrador Retriever,perro,5,macho,mediano,FALSE,TRUE,TRUE,34,FALSE
+265,Poodle,conejo,16,hembra,pequeño,TRUE,TRUE,TRUE,83,FALSE
+266,Flemish Giant rabbit,conejo,9,macho,grande,FALSE,FALSE,TRUE,88,FALSE
+267,Dutch rabbit,conejo,16,hembra,grande,FALSE,FALSE,FALSE,65,FALSE
+268,Bengal cat,gato,10,macho,grande,FALSE,FALSE,FALSE,52,FALSE
+269,German Shepherd,perro,13,macho,grande,FALSE,TRUE,TRUE,40,FALSE
+270,Netherland Dwarf rabbit,conejo,16,hembra,pequeño,FALSE,TRUE,TRUE,34,FALSE
+271,Poodle,conejo,6,hembra,pequeño,TRUE,TRUE,FALSE,16,FALSE
+272,Siberian Husky,perro,17,hembra,mediano,TRUE,TRUE,FALSE,66,FALSE
+273,Scottish Fold cat,gato,14,hembra,mediano,TRUE,FALSE,FALSE,68,FALSE
+274,Golden Retriever,perro,6,macho,pequeño,TRUE,FALSE,FALSE,43,FALSE
+275,Golden Retriever,perro,18,hembra,mediano,FALSE,FALSE,FALSE,9,FALSE
+276,Siamese cat,gato,19,macho,pequeño,TRUE,FALSE,FALSE,89,FALSE
+277,Netherland Dwarf rabbit,conejo,9,hembra,grande,TRUE,TRUE,FALSE,47,FALSE
+278,Golden Retriever,perro,20,macho,pequeño,FALSE,TRUE,TRUE,86,FALSE
+279,Dutch rabbit,conejo,6,hembra,grande,TRUE,FALSE,TRUE,49,FALSE
+280,Mini Rex rabbit,conejo,14,macho,mediano,FALSE,TRUE,FALSE,,TRUE
+281,Holland Lop rabbit,conejo,15,hembra,mediano,FALSE,TRUE,TRUE,19,FALSE
+282,Maine Coon cat,gato,7,hembra,grande,FALSE,TRUE,TRUE,35,FALSE
+283,Mini Rex rabbit,conejo,9,hembra,mediano,FALSE,TRUE,FALSE,12,FALSE
+284,Flemish Giant rabbit,conejo,18,hembra,pequeño,FALSE,FALSE,TRUE,27,FALSE
+285,Labrador Retriever,perro,20,macho,mediano,TRUE,TRUE,TRUE,77,FALSE
+286,Persian cat,conejo,16,macho,grande,FALSE,FALSE,TRUE,23,FALSE
+287,German Shepherd,perro,8,macho,grande,FALSE,FALSE,TRUE,76,FALSE
+288,Golden Retriever,perro,8,macho,mediano,TRUE,TRUE,TRUE,50,FALSE
+289,Siberian Husky,perro,8,hembra,pequeño,FALSE,TRUE,FALSE,82,FALSE
+290,Dutch rabbit,conejo,7,macho,grande,TRUE,FALSE,TRUE,62,FALSE
+291,Siamese cat,gato,12,macho,pequeño,FALSE,FALSE,TRUE,43,FALSE
+292,Poodle,conejo,17,hembra,grande,TRUE,FALSE,TRUE,9,FALSE
+293,Siberian Husky,perro,10,macho,mediano,FALSE,FALSE,TRUE,21,FALSE
+294,Netherland Dwarf rabbit,conejo,15,macho,grande,TRUE,TRUE,TRUE,80,FALSE
+295,Netherland Dwarf rabbit,conejo,17,macho,mediano,FALSE,FALSE,TRUE,31,FALSE
+296,Poodle,conejo,14,macho,pequeño,FALSE,TRUE,TRUE,61,FALSE
+297,Golden Retriever,perro,20,hembra,mediano,TRUE,TRUE,FALSE,86,FALSE
+298,Persian cat,conejo,5,macho,pequeño,FALSE,FALSE,FALSE,60,FALSE
+299,German Shepherd,perro,16,hembra,mediano,FALSE,TRUE,FALSE,55,FALSE
+300,Persian cat,conejo,6,macho,pequeño,FALSE,TRUE,FALSE,89,FALSE
+301,Flemish Giant rabbit,conejo,4,macho,grande,FALSE,FALSE,FALSE,82,FALSE
+302,Dutch rabbit,conejo,8,hembra,mediano,TRUE,TRUE,TRUE,31,FALSE
+303,Dutch rabbit,conejo,5,macho,pequeño,FALSE,TRUE,FALSE,86,FALSE
+304,Siberian Husky,perro,5,macho,grande,FALSE,TRUE,FALSE,12,FALSE
+305,Bengal cat,gato,5,macho,mediano,FALSE,FALSE,TRUE,26,FALSE
+306,Dutch rabbit,conejo,6,macho,mediano,TRUE,TRUE,TRUE,56,FALSE
+307,Siamese cat,gato,20,macho,grande,FALSE,FALSE,FALSE,52,FALSE
+308,Siamese cat,gato,7,hembra,grande,FALSE,TRUE,FALSE,39,FALSE
+309,Dutch rabbit,conejo,9,macho,grande,FALSE,TRUE,FALSE,26,FALSE
+310,Holland Lop rabbit,conejo,19,macho,grande,TRUE,TRUE,TRUE,54,FALSE
+311,Poodle,conejo,5,macho,mediano,FALSE,TRUE,FALSE,52,FALSE
+312,Labrador Retriever,perro,14,hembra,grande,FALSE,TRUE,FALSE,,TRUE
+313,Scottish Fold cat,gato,13,hembra,grande,TRUE,TRUE,TRUE,45,FALSE
+314,Golden Retriever,perro,11,hembra,mediano,TRUE,TRUE,FALSE,77,FALSE
+315,Siberian Husky,perro,11,macho,pequeño,TRUE,TRUE,FALSE,34,FALSE
+316,Scottish Fold cat,gato,19,hembra,mediano,FALSE,TRUE,FALSE,11,FALSE
+317,Flemish Giant rabbit,conejo,19,hembra,mediano,TRUE,TRUE,TRUE,30,FALSE
+318,Netherland Dwarf rabbit,conejo,9,hembra,mediano,TRUE,TRUE,FALSE,56,FALSE
+319,Siberian Husky,perro,20,macho,grande,FALSE,FALSE,TRUE,21,FALSE
+320,Holland Lop rabbit,conejo,18,hembra,grande,TRUE,TRUE,TRUE,69,FALSE
+321,Bengal cat,gato,15,macho,pequeño,FALSE,FALSE,FALSE,52,FALSE
+322,Siamese cat,gato,16,hembra,mediano,FALSE,FALSE,TRUE,16,FALSE
+323,Flemish Giant rabbit,conejo,12,macho,grande,TRUE,FALSE,TRUE,65,FALSE
+324,Siberian Husky,perro,12,hembra,grande,FALSE,FALSE,TRUE,18,FALSE
+325,Dutch rabbit,conejo,9,hembra,grande,FALSE,FALSE,TRUE,13,FALSE
+326,Holland Lop rabbit,conejo,16,hembra,grande,FALSE,FALSE,TRUE,19,FALSE
+327,Persian cat,conejo,5,macho,mediano,FALSE,TRUE,TRUE,59,FALSE
+328,Netherland Dwarf rabbit,conejo,18,macho,grande,TRUE,TRUE,TRUE,60,FALSE
+329,Siberian Husky,perro,15,hembra,mediano,FALSE,TRUE,TRUE,60,FALSE
+330,Flemish Giant rabbit,conejo,8,hembra,mediano,FALSE,FALSE,FALSE,66,FALSE
+331,Holland Lop rabbit,conejo,14,hembra,mediano,TRUE,FALSE,FALSE,66,FALSE
+332,German Shepherd,perro,18,macho,grande,FALSE,FALSE,FALSE,50,FALSE
+333,Poodle,conejo,9,hembra,grande,TRUE,FALSE,FALSE,82,FALSE
+334,Siamese cat,gato,19,hembra,mediano,TRUE,FALSE,TRUE,82,FALSE
+335,Holland Lop rabbit,conejo,5,macho,grande,TRUE,TRUE,FALSE,50,FALSE
+336,Mini Rex rabbit,conejo,5,macho,grande,TRUE,FALSE,TRUE,,TRUE
+337,Golden Retriever,perro,7,macho,grande,TRUE,FALSE,FALSE,10,FALSE
+338,Poodle,conejo,12,hembra,mediano,FALSE,TRUE,FALSE,18,FALSE
+339,Mini Rex rabbit,conejo,18,hembra,grande,FALSE,FALSE,TRUE,63,FALSE
+340,Dutch rabbit,conejo,11,hembra,grande,TRUE,FALSE,FALSE,58,FALSE
+341,Siberian Husky,perro,19,macho,pequeño,TRUE,TRUE,TRUE,90,FALSE
+342,Holland Lop rabbit,conejo,13,macho,grande,FALSE,TRUE,FALSE,6,FALSE
+343,Flemish Giant rabbit,conejo,10,macho,mediano,TRUE,TRUE,FALSE,23,FALSE
+344,Persian cat,conejo,8,macho,grande,TRUE,FALSE,TRUE,75,FALSE
+345,Poodle,conejo,18,macho,mediano,TRUE,FALSE,FALSE,64,FALSE
+346,Siberian Husky,perro,6,macho,mediano,TRUE,TRUE,TRUE,49,FALSE
+347,Scottish Fold cat,gato,12,hembra,pequeño,TRUE,TRUE,TRUE,65,FALSE
+348,Siamese cat,gato,7,macho,pequeño,TRUE,TRUE,TRUE,37,FALSE
+349,Siberian Husky,perro,4,macho,pequeño,FALSE,TRUE,FALSE,46,FALSE
+350,German Shepherd,perro,19,macho,pequeño,FALSE,TRUE,FALSE,48,FALSE
+351,Poodle,conejo,16,macho,grande,TRUE,TRUE,FALSE,63,FALSE
+352,Siamese cat,gato,8,macho,grande,TRUE,FALSE,FALSE,71,FALSE
+353,Siberian Husky,perro,8,hembra,pequeño,FALSE,FALSE,TRUE,53,FALSE
+354,Persian cat,conejo,11,macho,mediano,FALSE,TRUE,FALSE,41,FALSE
+355,Bengal cat,gato,6,hembra,grande,FALSE,FALSE,TRUE,47,FALSE
+356,Persian cat,conejo,20,hembra,pequeño,FALSE,TRUE,TRUE,58,FALSE
+357,Dutch rabbit,conejo,5,macho,grande,TRUE,TRUE,FALSE,69,FALSE
+358,Labrador Retriever,perro,11,macho,pequeño,TRUE,TRUE,FALSE,77,FALSE
+359,Bengal cat,gato,16,macho,mediano,TRUE,FALSE,FALSE,,TRUE
+360,Golden Retriever,perro,7,macho,mediano,FALSE,TRUE,FALSE,,TRUE
+361,Persian cat,conejo,18,hembra,pequeño,FALSE,TRUE,FALSE,79,FALSE
+362,Dutch rabbit,conejo,14,hembra,pequeño,FALSE,TRUE,TRUE,33,FALSE
+363,Siamese cat,gato,14,macho,grande,FALSE,FALSE,TRUE,21,FALSE
+364,Bengal cat,gato,5,macho,pequeño,TRUE,FALSE,TRUE,15,FALSE
+365,Poodle,conejo,12,macho,grande,FALSE,FALSE,FALSE,61,FALSE
+366,Netherland Dwarf rabbit,conejo,6,macho,mediano,FALSE,TRUE,FALSE,72,FALSE
+367,Netherland Dwarf rabbit,conejo,10,macho,mediano,TRUE,TRUE,TRUE,39,FALSE
+368,Scottish Fold cat,gato,16,hembra,pequeño,FALSE,FALSE,TRUE,27,FALSE
+369,Poodle,conejo,19,hembra,mediano,FALSE,TRUE,TRUE,42,FALSE
+370,Holland Lop rabbit,conejo,12,hembra,mediano,FALSE,TRUE,TRUE,24,FALSE
+371,Golden Retriever,perro,9,hembra,grande,FALSE,TRUE,FALSE,50,FALSE
+372,Flemish Giant rabbit,conejo,6,hembra,pequeño,FALSE,TRUE,FALSE,46,FALSE
+373,German Shepherd,perro,7,hembra,mediano,FALSE,TRUE,TRUE,88,FALSE
+374,Poodle,conejo,9,hembra,pequeño,TRUE,FALSE,TRUE,38,FALSE
+375,Labrador Retriever,perro,16,macho,grande,FALSE,FALSE,FALSE,40,FALSE
+376,Golden Retriever,perro,18,hembra,pequeño,FALSE,TRUE,TRUE,77,FALSE
+377,Dutch rabbit,conejo,18,hembra,grande,TRUE,FALSE,TRUE,42,FALSE
+378,German Shepherd,perro,16,macho,pequeño,FALSE,FALSE,FALSE,42,FALSE
+379,Holland Lop rabbit,conejo,20,macho,grande,FALSE,TRUE,FALSE,16,FALSE
+380,Persian cat,conejo,18,hembra,pequeño,TRUE,TRUE,FALSE,33,FALSE
+381,Siberian Husky,perro,14,macho,grande,FALSE,FALSE,FALSE,64,FALSE
+382,Holland Lop rabbit,conejo,6,hembra,grande,FALSE,FALSE,TRUE,40,FALSE
+383,Dutch rabbit,conejo,10,hembra,pequeño,TRUE,TRUE,FALSE,24,FALSE
+384,Mini Rex rabbit,conejo,8,hembra,pequeño,FALSE,FALSE,TRUE,68,FALSE
+385,Maine Coon cat,gato,11,macho,grande,TRUE,FALSE,FALSE,53,FALSE
+386,Siamese cat,gato,19,macho,pequeño,TRUE,FALSE,FALSE,68,FALSE
+387,Bengal cat,gato,7,macho,pequeño,TRUE,TRUE,FALSE,46,FALSE
+388,Siberian Husky,perro,8,macho,pequeño,FALSE,TRUE,TRUE,12,FALSE
+389,Poodle,conejo,20,macho,grande,FALSE,TRUE,TRUE,43,FALSE
+390,Bengal cat,gato,8,hembra,grande,FALSE,TRUE,TRUE,86,FALSE
+391,Maine Coon cat,gato,11,hembra,grande,TRUE,TRUE,TRUE,12,FALSE
+392,Siberian Husky,perro,8,macho,mediano,TRUE,TRUE,FALSE,38,FALSE
+393,Maine Coon cat,gato,7,hembra,pequeño,TRUE,FALSE,TRUE,65,FALSE
+394,Netherland Dwarf rabbit,conejo,20,macho,grande,TRUE,TRUE,TRUE,12,FALSE
+395,Bengal cat,gato,19,hembra,mediano,FALSE,FALSE,FALSE,57,FALSE
+396,Golden Retriever,perro,4,macho,pequeño,TRUE,TRUE,TRUE,71,FALSE
+397,Poodle,conejo,16,macho,grande,TRUE,FALSE,FALSE,55,FALSE
+398,Golden Retriever,perro,11,hembra,mediano,TRUE,FALSE,FALSE,37,FALSE
+399,Siamese cat,gato,7,hembra,pequeño,FALSE,FALSE,FALSE,7,FALSE
+400,Poodle,conejo,18,hembra,pequeño,TRUE,FALSE,TRUE,11,FALSE
+401,Mini Rex rabbit,conejo,6,hembra,mediano,FALSE,TRUE,TRUE,10,FALSE
+402,Scottish Fold cat,gato,17,hembra,grande,FALSE,FALSE,FALSE,43,FALSE
+403,Holland Lop rabbit,conejo,15,macho,mediano,TRUE,TRUE,TRUE,,TRUE
+404,German Shepherd,perro,17,hembra,pequeño,TRUE,TRUE,FALSE,56,FALSE
+405,Dutch rabbit,conejo,17,hembra,mediano,TRUE,TRUE,TRUE,54,FALSE
+406,Mini Rex rabbit,conejo,15,hembra,pequeño,FALSE,TRUE,FALSE,37,FALSE
+407,Siberian Husky,perro,10,macho,pequeño,FALSE,TRUE,TRUE,85,FALSE
+408,Netherland Dwarf rabbit,conejo,16,hembra,pequeño,FALSE,FALSE,TRUE,67,FALSE
+409,Mini Rex rabbit,conejo,12,macho,mediano,FALSE,FALSE,FALSE,59,FALSE
+410,Bengal cat,gato,7,hembra,grande,TRUE,TRUE,FALSE,83,FALSE
+411,Scottish Fold cat,gato,10,macho,mediano,FALSE,FALSE,FALSE,41,FALSE
+412,Maine Coon cat,gato,16,hembra,pequeño,TRUE,FALSE,FALSE,69,FALSE
+413,German Shepherd,perro,5,hembra,pequeño,TRUE,FALSE,FALSE,9,FALSE
+414,Labrador Retriever,perro,14,hembra,pequeño,TRUE,FALSE,FALSE,12,FALSE
+415,Bengal cat,gato,15,hembra,mediano,TRUE,FALSE,TRUE,85,FALSE
+416,Labrador Retriever,perro,18,hembra,mediano,FALSE,FALSE,TRUE,5,FALSE
+417,Poodle,conejo,10,macho,mediano,FALSE,FALSE,FALSE,64,FALSE
+418,Siamese cat,gato,4,hembra,mediano,FALSE,TRUE,TRUE,,TRUE
+419,Flemish Giant rabbit,conejo,9,hembra,pequeño,FALSE,TRUE,FALSE,75,FALSE
+420,Labrador Retriever,perro,13,hembra,mediano,FALSE,TRUE,FALSE,25,FALSE
+421,Holland Lop rabbit,conejo,8,hembra,pequeño,FALSE,TRUE,TRUE,55,FALSE
+422,Netherland Dwarf rabbit,conejo,17,hembra,mediano,FALSE,TRUE,TRUE,,TRUE
+423,Dutch rabbit,conejo,4,macho,grande,TRUE,FALSE,TRUE,27,FALSE
+424,Golden Retriever,perro,5,macho,pequeño,TRUE,TRUE,TRUE,88,FALSE
+425,German Shepherd,perro,8,hembra,mediano,FALSE,FALSE,FALSE,15,FALSE
+426,Bengal cat,gato,16,macho,grande,TRUE,TRUE,FALSE,72,FALSE
+427,Mini Rex rabbit,conejo,15,macho,pequeño,FALSE,TRUE,TRUE,29,FALSE
+428,Holland Lop rabbit,conejo,15,hembra,pequeño,FALSE,FALSE,TRUE,87,FALSE
+429,Netherland Dwarf rabbit,conejo,12,macho,pequeño,FALSE,TRUE,TRUE,71,FALSE
+430,Poodle,conejo,10,hembra,grande,FALSE,FALSE,TRUE,,TRUE
+431,Poodle,conejo,6,macho,pequeño,FALSE,FALSE,FALSE,69,FALSE
+432,Bengal cat,gato,9,macho,grande,FALSE,TRUE,FALSE,20,FALSE
+433,Bengal cat,gato,9,hembra,grande,TRUE,FALSE,FALSE,66,FALSE
+434,Flemish Giant rabbit,conejo,20,macho,grande,TRUE,FALSE,FALSE,38,FALSE
+435,Siamese cat,gato,5,hembra,pequeño,FALSE,FALSE,FALSE,29,FALSE
+436,Golden Retriever,perro,9,hembra,grande,TRUE,TRUE,TRUE,61,FALSE
+437,Dutch rabbit,conejo,9,macho,grande,FALSE,TRUE,TRUE,46,FALSE
+438,Dutch rabbit,conejo,6,hembra,pequeño,FALSE,FALSE,TRUE,90,FALSE
+439,Scottish Fold cat,gato,17,macho,grande,TRUE,TRUE,FALSE,90,FALSE
+440,Golden Retriever,perro,16,hembra,pequeño,TRUE,FALSE,TRUE,50,FALSE
+441,Siamese cat,gato,17,hembra,mediano,TRUE,TRUE,FALSE,78,FALSE
+442,Flemish Giant rabbit,conejo,13,macho,grande,FALSE,FALSE,FALSE,54,FALSE
+443,Poodle,conejo,20,macho,pequeño,FALSE,TRUE,FALSE,9,FALSE
+444,Siberian Husky,perro,20,macho,pequeño,FALSE,FALSE,FALSE,79,FALSE
+445,Golden Retriever,perro,11,hembra,pequeño,TRUE,FALSE,TRUE,,TRUE
+446,Scottish Fold cat,gato,18,hembra,pequeño,FALSE,TRUE,FALSE,70,FALSE
+447,Persian cat,conejo,11,macho,grande,TRUE,FALSE,FALSE,50,FALSE
+448,Dutch rabbit,conejo,12,macho,grande,TRUE,FALSE,TRUE,36,FALSE
+449,Golden Retriever,perro,19,macho,pequeño,FALSE,FALSE,FALSE,87,FALSE
+450,Siamese cat,gato,10,macho,grande,FALSE,FALSE,TRUE,57,FALSE
+451,Scottish Fold cat,gato,16,macho,grande,FALSE,TRUE,FALSE,53,FALSE
+452,Maine Coon cat,gato,12,hembra,grande,FALSE,TRUE,FALSE,88,FALSE
+453,Mini Rex rabbit,conejo,19,macho,mediano,TRUE,FALSE,TRUE,73,FALSE
+454,Scottish Fold cat,gato,4,hembra,pequeño,TRUE,FALSE,FALSE,36,FALSE
+455,Mini Rex rabbit,conejo,13,hembra,pequeño,FALSE,FALSE,FALSE,63,FALSE
+456,Netherland Dwarf rabbit,conejo,9,macho,pequeño,FALSE,TRUE,TRUE,64,FALSE
+457,Holland Lop rabbit,conejo,13,hembra,pequeño,TRUE,TRUE,TRUE,6,FALSE
+458,Mini Rex rabbit,conejo,10,hembra,mediano,TRUE,TRUE,FALSE,49,FALSE
+459,Maine Coon cat,gato,17,macho,mediano,TRUE,FALSE,FALSE,55,FALSE
+460,Siamese cat,gato,10,macho,mediano,FALSE,TRUE,FALSE,34,FALSE
+461,German Shepherd,perro,17,macho,mediano,TRUE,FALSE,TRUE,52,FALSE
+462,Maine Coon cat,gato,4,macho,grande,TRUE,FALSE,FALSE,66,FALSE
+463,Scottish Fold cat,gato,7,macho,mediano,FALSE,FALSE,TRUE,38,FALSE
+464,German Shepherd,perro,6,hembra,mediano,FALSE,FALSE,FALSE,22,FALSE
+465,Golden Retriever,perro,16,hembra,grande,TRUE,TRUE,FALSE,48,FALSE
+466,Flemish Giant rabbit,conejo,11,macho,mediano,FALSE,TRUE,FALSE,55,FALSE
+467,Dutch rabbit,conejo,16,macho,pequeño,TRUE,TRUE,TRUE,64,FALSE
+468,Flemish Giant rabbit,conejo,17,hembra,pequeño,FALSE,TRUE,FALSE,,TRUE
+469,Scottish Fold cat,gato,10,hembra,mediano,TRUE,FALSE,TRUE,14,FALSE
+470,Scottish Fold cat,gato,4,macho,pequeño,FALSE,FALSE,FALSE,40,FALSE
+471,Netherland Dwarf rabbit,conejo,8,hembra,mediano,TRUE,FALSE,TRUE,54,FALSE
+472,Flemish Giant rabbit,conejo,4,hembra,mediano,TRUE,TRUE,TRUE,34,FALSE
+473,Golden Retriever,perro,13,macho,mediano,TRUE,TRUE,FALSE,16,FALSE
+474,Golden Retriever,perro,5,hembra,pequeño,FALSE,FALSE,TRUE,29,FALSE
+475,Siberian Husky,perro,13,hembra,mediano,TRUE,TRUE,FALSE,11,FALSE
+476,Mini Rex rabbit,conejo,16,macho,mediano,TRUE,TRUE,TRUE,47,FALSE
+477,Netherland Dwarf rabbit,conejo,14,hembra,mediano,TRUE,TRUE,FALSE,88,FALSE
+478,Persian cat,conejo,14,hembra,grande,TRUE,FALSE,TRUE,11,FALSE
+479,Siberian Husky,perro,10,hembra,mediano,TRUE,TRUE,FALSE,69,FALSE
+480,Flemish Giant rabbit,conejo,17,hembra,grande,FALSE,FALSE,TRUE,42,FALSE
+481,German Shepherd,perro,9,macho,grande,FALSE,TRUE,FALSE,11,FALSE
+482,Holland Lop rabbit,conejo,13,hembra,mediano,FALSE,FALSE,FALSE,7,FALSE
+483,Holland Lop rabbit,conejo,8,hembra,pequeño,FALSE,FALSE,TRUE,43,FALSE
+484,Labrador Retriever,perro,4,hembra,mediano,FALSE,FALSE,TRUE,9,FALSE
+485,Siamese cat,gato,6,macho,grande,FALSE,FALSE,TRUE,8,FALSE
+486,Scottish Fold cat,gato,10,macho,pequeño,TRUE,TRUE,FALSE,29,FALSE
+487,Poodle,conejo,14,hembra,mediano,TRUE,TRUE,TRUE,33,FALSE
+488,Persian cat,conejo,9,hembra,grande,FALSE,FALSE,TRUE,58,FALSE
+489,Mini Rex rabbit,conejo,13,hembra,pequeño,TRUE,FALSE,TRUE,56,FALSE
+490,Mini Rex rabbit,conejo,4,macho,grande,FALSE,FALSE,TRUE,,TRUE
+491,Labrador Retriever,perro,13,hembra,mediano,TRUE,FALSE,TRUE,38,FALSE
+492,Dutch rabbit,conejo,15,hembra,grande,TRUE,FALSE,FALSE,84,FALSE
+493,Siberian Husky,perro,4,hembra,grande,TRUE,FALSE,FALSE,61,FALSE
+494,Mini Rex rabbit,conejo,7,hembra,pequeño,TRUE,FALSE,FALSE,50,FALSE
+495,Siberian Husky,perro,13,hembra,mediano,FALSE,FALSE,FALSE,29,FALSE
+496,Dutch rabbit,conejo,9,macho,pequeño,TRUE,FALSE,FALSE,73,FALSE
+497,Scottish Fold cat,gato,14,hembra,mediano,TRUE,TRUE,TRUE,36,FALSE
+498,Labrador Retriever,perro,10,hembra,mediano,TRUE,TRUE,FALSE,,TRUE
+499,Dutch rabbit,conejo,5,hembra,grande,FALSE,FALSE,TRUE,46,FALSE
+500,Golden Retriever,perro,13,macho,mediano,TRUE,TRUE,TRUE,14,FALSE
+501,Holland Lop rabbit,conejo,7,hembra,pequeño,TRUE,TRUE,TRUE,85,FALSE
+502,Persian cat,conejo,19,hembra,pequeño,TRUE,FALSE,TRUE,81,FALSE
+503,Persian cat,conejo,5,macho,mediano,FALSE,TRUE,TRUE,46,FALSE
+504,Netherland Dwarf rabbit,conejo,14,hembra,mediano,TRUE,TRUE,FALSE,28,FALSE
+505,Siamese cat,gato,10,macho,pequeño,FALSE,FALSE,TRUE,73,FALSE
+506,Siamese cat,gato,20,macho,mediano,FALSE,TRUE,TRUE,61,FALSE
+507,Bengal cat,gato,4,macho,pequeño,TRUE,TRUE,FALSE,72,FALSE
+508,Dutch rabbit,conejo,10,macho,pequeño,FALSE,TRUE,FALSE,11,FALSE
+509,German Shepherd,perro,9,hembra,grande,FALSE,FALSE,TRUE,63,FALSE
+510,Flemish Giant rabbit,conejo,4,macho,mediano,TRUE,TRUE,FALSE,56,FALSE
+511,Persian cat,conejo,5,hembra,grande,FALSE,FALSE,TRUE,85,FALSE
+512,German Shepherd,perro,13,hembra,mediano,TRUE,TRUE,FALSE,17,FALSE
+513,Poodle,conejo,12,hembra,pequeño,FALSE,TRUE,FALSE,79,FALSE
+514,Flemish Giant rabbit,conejo,13,macho,grande,TRUE,FALSE,FALSE,60,FALSE
+515,Bengal cat,gato,16,hembra,mediano,TRUE,TRUE,FALSE,19,FALSE
+516,Netherland Dwarf rabbit,conejo,12,macho,pequeño,TRUE,TRUE,FALSE,69,FALSE
+517,Scottish Fold cat,gato,13,macho,grande,TRUE,TRUE,FALSE,40,FALSE
+518,Labrador Retriever,perro,20,hembra,pequeño,TRUE,TRUE,TRUE,19,FALSE
+519,Netherland Dwarf rabbit,conejo,16,macho,pequeño,TRUE,TRUE,FALSE,7,FALSE
+520,Siberian Husky,perro,19,macho,mediano,TRUE,FALSE,TRUE,59,FALSE
+521,Flemish Giant rabbit,conejo,19,macho,pequeño,FALSE,TRUE,TRUE,89,FALSE
+522,Holland Lop rabbit,conejo,6,hembra,pequeño,TRUE,FALSE,TRUE,89,FALSE
+523,Scottish Fold cat,gato,9,macho,mediano,FALSE,FALSE,FALSE,78,FALSE
+524,Bengal cat,gato,19,hembra,mediano,FALSE,TRUE,TRUE,83,FALSE
+525,Holland Lop rabbit,conejo,20,hembra,mediano,FALSE,TRUE,FALSE,25,FALSE
+526,Siberian Husky,perro,14,macho,pequeño,FALSE,TRUE,TRUE,31,FALSE
+527,Holland Lop rabbit,conejo,8,macho,grande,FALSE,FALSE,TRUE,39,FALSE
+528,Maine Coon cat,gato,7,hembra,pequeño,FALSE,TRUE,TRUE,77,FALSE
+529,Labrador Retriever,perro,9,macho,pequeño,TRUE,TRUE,FALSE,13,FALSE
+530,German Shepherd,perro,16,macho,mediano,TRUE,TRUE,FALSE,72,FALSE
+531,Golden Retriever,perro,16,hembra,mediano,FALSE,FALSE,TRUE,28,FALSE
+532,Flemish Giant rabbit,conejo,18,hembra,mediano,TRUE,TRUE,TRUE,79,FALSE
+533,Dutch rabbit,conejo,14,hembra,pequeño,FALSE,TRUE,TRUE,47,FALSE
+534,Persian cat,conejo,7,macho,grande,FALSE,TRUE,FALSE,41,FALSE
+535,Poodle,conejo,12,hembra,mediano,TRUE,FALSE,TRUE,38,FALSE
+536,Siberian Husky,perro,10,macho,grande,TRUE,TRUE,FALSE,49,FALSE
+537,Dutch rabbit,conejo,5,macho,grande,TRUE,FALSE,FALSE,61,FALSE
+538,Labrador Retriever,perro,19,hembra,pequeño,FALSE,FALSE,FALSE,32,FALSE
+539,Golden Retriever,perro,10,hembra,pequeño,FALSE,TRUE,FALSE,68,FALSE
+540,Bengal cat,gato,13,hembra,mediano,FALSE,FALSE,FALSE,65,FALSE
+541,Bengal cat,gato,20,hembra,mediano,FALSE,FALSE,FALSE,35,FALSE
+542,Bengal cat,gato,13,macho,pequeño,TRUE,FALSE,FALSE,37,FALSE
+543,Maine Coon cat,gato,9,hembra,grande,FALSE,FALSE,FALSE,16,FALSE
+544,Flemish Giant rabbit,conejo,16,macho,pequeño,FALSE,FALSE,FALSE,90,FALSE
+545,Mini Rex rabbit,conejo,19,hembra,pequeño,FALSE,FALSE,TRUE,43,FALSE
+546,Poodle,conejo,18,macho,pequeño,TRUE,FALSE,TRUE,19,FALSE
+547,Golden Retriever,perro,5,hembra,pequeño,FALSE,FALSE,TRUE,12,FALSE
+548,Siamese cat,gato,13,macho,pequeño,TRUE,TRUE,TRUE,80,FALSE
+549,Siberian Husky,perro,10,hembra,grande,TRUE,TRUE,TRUE,36,FALSE
+550,Netherland Dwarf rabbit,conejo,7,hembra,grande,TRUE,TRUE,FALSE,23,FALSE
+551,Poodle,conejo,19,hembra,grande,TRUE,FALSE,FALSE,80,FALSE
+552,Scottish Fold cat,gato,14,hembra,mediano,TRUE,FALSE,TRUE,77,FALSE
+553,German Shepherd,perro,20,hembra,pequeño,FALSE,FALSE,TRUE,10,FALSE
+554,Holland Lop rabbit,conejo,9,macho,pequeño,TRUE,TRUE,TRUE,43,FALSE
+555,Holland Lop rabbit,conejo,6,hembra,grande,TRUE,FALSE,FALSE,19,FALSE
+556,Flemish Giant rabbit,conejo,19,hembra,grande,FALSE,TRUE,TRUE,90,FALSE
+557,German Shepherd,perro,20,macho,grande,TRUE,TRUE,TRUE,32,FALSE
+558,Dutch rabbit,conejo,11,hembra,grande,TRUE,TRUE,FALSE,53,FALSE
+559,Netherland Dwarf rabbit,conejo,4,hembra,pequeño,FALSE,TRUE,FALSE,80,FALSE
+560,Siberian Husky,perro,4,hembra,pequeño,TRUE,TRUE,FALSE,20,FALSE
+561,Flemish Giant rabbit,conejo,14,macho,grande,FALSE,TRUE,FALSE,15,FALSE
+562,German Shepherd,perro,11,macho,pequeño,FALSE,TRUE,TRUE,58,FALSE
+563,Netherland Dwarf rabbit,conejo,20,hembra,mediano,FALSE,FALSE,FALSE,19,FALSE
+564,Scottish Fold cat,gato,9,hembra,grande,TRUE,FALSE,FALSE,26,FALSE
+565,Mini Rex rabbit,conejo,8,hembra,grande,FALSE,FALSE,FALSE,51,FALSE
+566,Golden Retriever,perro,8,macho,pequeño,TRUE,FALSE,FALSE,20,FALSE
+567,Dutch rabbit,conejo,14,hembra,mediano,FALSE,FALSE,TRUE,75,FALSE
+568,Dutch rabbit,conejo,16,hembra,pequeño,TRUE,TRUE,TRUE,14,FALSE
+569,Bengal cat,gato,8,macho,pequeño,FALSE,TRUE,FALSE,8,FALSE
+570,Siberian Husky,perro,11,macho,mediano,FALSE,FALSE,FALSE,26,FALSE
+571,Scottish Fold cat,gato,4,macho,mediano,TRUE,TRUE,FALSE,45,FALSE
+572,Holland Lop rabbit,conejo,5,hembra,grande,FALSE,FALSE,TRUE,85,FALSE
+573,Maine Coon cat,gato,9,hembra,grande,TRUE,FALSE,FALSE,56,FALSE
+574,Bengal cat,gato,15,hembra,mediano,TRUE,TRUE,TRUE,82,FALSE
+575,Scottish Fold cat,gato,7,hembra,pequeño,FALSE,TRUE,FALSE,54,FALSE
+576,Siamese cat,gato,18,hembra,grande,FALSE,TRUE,FALSE,24,FALSE
+577,Siamese cat,gato,19,macho,mediano,FALSE,FALSE,TRUE,5,FALSE
+578,Mini Rex rabbit,conejo,20,macho,mediano,FALSE,TRUE,FALSE,23,FALSE
+579,Holland Lop rabbit,conejo,15,macho,grande,FALSE,FALSE,FALSE,46,FALSE
+580,Siberian Husky,perro,10,hembra,pequeño,FALSE,TRUE,FALSE,23,FALSE
+581,Siamese cat,gato,16,hembra,pequeño,TRUE,TRUE,FALSE,5,FALSE
+582,Poodle,conejo,10,hembra,grande,FALSE,FALSE,FALSE,82,FALSE
+583,Flemish Giant rabbit,conejo,18,macho,grande,TRUE,FALSE,TRUE,79,FALSE
+584,Scottish Fold cat,gato,17,hembra,pequeño,TRUE,TRUE,TRUE,84,FALSE
+585,Flemish Giant rabbit,conejo,5,macho,grande,TRUE,FALSE,FALSE,51,FALSE
+586,Bengal cat,gato,9,hembra,grande,FALSE,TRUE,TRUE,20,FALSE
+587,Dutch rabbit,conejo,7,macho,mediano,FALSE,FALSE,TRUE,36,FALSE
+588,Poodle,conejo,20,hembra,pequeño,TRUE,TRUE,FALSE,53,FALSE
+589,Persian cat,conejo,18,hembra,mediano,FALSE,FALSE,TRUE,32,FALSE
+590,Dutch rabbit,conejo,14,hembra,pequeño,FALSE,FALSE,FALSE,52,FALSE
+591,Netherland Dwarf rabbit,conejo,15,hembra,grande,FALSE,TRUE,FALSE,,TRUE
+592,Golden Retriever,perro,9,macho,mediano,FALSE,FALSE,TRUE,60,FALSE
+593,Dutch rabbit,conejo,16,hembra,mediano,FALSE,TRUE,TRUE,6,FALSE
+594,Scottish Fold cat,gato,5,hembra,pequeño,TRUE,TRUE,FALSE,13,FALSE
+595,Scottish Fold cat,gato,13,hembra,grande,FALSE,FALSE,TRUE,37,FALSE
+596,Bengal cat,gato,10,hembra,mediano,TRUE,FALSE,FALSE,74,FALSE
+597,Bengal cat,gato,20,macho,grande,TRUE,FALSE,FALSE,75,FALSE
+598,Maine Coon cat,gato,9,hembra,grande,FALSE,TRUE,FALSE,,TRUE
+599,Siamese cat,gato,19,hembra,grande,TRUE,FALSE,FALSE,8,FALSE
+600,Dutch rabbit,conejo,10,hembra,grande,FALSE,TRUE,TRUE,64,FALSE
+601,Siberian Husky,perro,14,macho,grande,FALSE,TRUE,TRUE,64,FALSE
+602,Labrador Retriever,perro,15,hembra,grande,FALSE,FALSE,TRUE,22,FALSE
+603,Scottish Fold cat,gato,14,hembra,pequeño,FALSE,FALSE,FALSE,90,FALSE
+604,Dutch rabbit,conejo,10,macho,mediano,FALSE,FALSE,FALSE,21,FALSE
+605,Dutch rabbit,conejo,9,macho,mediano,TRUE,TRUE,FALSE,61,FALSE
+606,Holland Lop rabbit,conejo,14,hembra,mediano,FALSE,FALSE,FALSE,78,FALSE
+607,Holland Lop rabbit,conejo,17,macho,mediano,TRUE,TRUE,TRUE,70,FALSE
+608,Golden Retriever,perro,10,macho,pequeño,TRUE,FALSE,FALSE,22,FALSE
+609,Flemish Giant rabbit,conejo,11,hembra,pequeño,TRUE,FALSE,TRUE,81,FALSE
+610,Holland Lop rabbit,conejo,20,hembra,mediano,FALSE,TRUE,TRUE,,TRUE
+611,Labrador Retriever,perro,20,macho,grande,TRUE,FALSE,TRUE,20,FALSE
+612,Holland Lop rabbit,conejo,16,macho,mediano,TRUE,TRUE,FALSE,82,FALSE
+613,Holland Lop rabbit,conejo,10,hembra,pequeño,TRUE,TRUE,FALSE,32,FALSE
+614,Golden Retriever,perro,5,hembra,grande,TRUE,FALSE,FALSE,21,FALSE
+615,Netherland Dwarf rabbit,conejo,16,hembra,mediano,FALSE,TRUE,FALSE,35,FALSE
+616,Labrador Retriever,perro,18,hembra,grande,TRUE,TRUE,TRUE,40,FALSE
+617,Maine Coon cat,gato,17,macho,pequeño,TRUE,TRUE,TRUE,51,FALSE
+618,Bengal cat,gato,10,hembra,pequeño,FALSE,TRUE,FALSE,21,FALSE
+619,Persian cat,conejo,20,hembra,grande,TRUE,FALSE,FALSE,86,FALSE
+620,Golden Retriever,perro,10,hembra,pequeño,FALSE,TRUE,TRUE,12,FALSE
+621,Persian cat,conejo,10,macho,mediano,FALSE,TRUE,FALSE,52,FALSE
+622,German Shepherd,perro,4,hembra,mediano,TRUE,TRUE,FALSE,74,FALSE
+623,Siamese cat,gato,16,macho,grande,FALSE,TRUE,FALSE,46,FALSE
+624,Poodle,conejo,9,macho,pequeño,TRUE,TRUE,FALSE,78,FALSE
+625,Scottish Fold cat,gato,14,hembra,pequeño,FALSE,FALSE,TRUE,20,FALSE
+626,Maine Coon cat,gato,12,hembra,pequeño,TRUE,TRUE,TRUE,36,FALSE
+627,German Shepherd,perro,13,macho,pequeño,FALSE,FALSE,FALSE,90,FALSE
+628,Poodle,conejo,11,macho,mediano,FALSE,TRUE,FALSE,79,FALSE
+629,Mini Rex rabbit,conejo,14,hembra,mediano,TRUE,TRUE,TRUE,55,FALSE
+630,Siberian Husky,perro,18,macho,grande,TRUE,TRUE,FALSE,30,FALSE
+631,Netherland Dwarf rabbit,conejo,6,macho,grande,TRUE,FALSE,TRUE,,TRUE
+632,Mini Rex rabbit,conejo,18,macho,grande,FALSE,TRUE,FALSE,85,FALSE
+633,Flemish Giant rabbit,conejo,9,macho,pequeño,FALSE,FALSE,TRUE,41,FALSE
+634,Bengal cat,gato,11,hembra,grande,FALSE,FALSE,TRUE,54,FALSE
+635,Labrador Retriever,perro,8,macho,pequeño,FALSE,FALSE,FALSE,20,FALSE
+636,Labrador Retriever,perro,5,macho,mediano,FALSE,FALSE,FALSE,24,FALSE
+637,Siamese cat,gato,11,macho,grande,FALSE,FALSE,FALSE,24,FALSE
+638,Persian cat,conejo,9,hembra,mediano,TRUE,FALSE,TRUE,87,FALSE
+639,Labrador Retriever,perro,10,hembra,mediano,FALSE,TRUE,TRUE,30,FALSE
+640,Dutch rabbit,conejo,13,macho,pequeño,TRUE,TRUE,TRUE,54,FALSE
+641,Siamese cat,gato,8,macho,pequeño,TRUE,FALSE,FALSE,21,FALSE
+642,Flemish Giant rabbit,conejo,11,macho,grande,TRUE,FALSE,FALSE,24,FALSE
+643,Bengal cat,gato,7,hembra,pequeño,FALSE,FALSE,TRUE,68,FALSE
+644,Flemish Giant rabbit,conejo,16,hembra,grande,FALSE,TRUE,FALSE,87,FALSE
+645,Golden Retriever,perro,7,hembra,pequeño,TRUE,TRUE,FALSE,37,FALSE
+646,Bengal cat,gato,14,macho,mediano,FALSE,TRUE,TRUE,78,FALSE
+647,Poodle,conejo,6,macho,mediano,FALSE,TRUE,FALSE,9,FALSE
+648,Scottish Fold cat,gato,15,hembra,pequeño,TRUE,FALSE,FALSE,32,FALSE
+649,Siberian Husky,perro,17,hembra,mediano,TRUE,TRUE,TRUE,68,FALSE
+650,Persian cat,conejo,15,hembra,pequeño,TRUE,TRUE,FALSE,77,FALSE
+651,Holland Lop rabbit,conejo,4,hembra,grande,TRUE,FALSE,TRUE,19,FALSE
+652,Holland Lop rabbit,conejo,6,hembra,pequeño,FALSE,FALSE,TRUE,43,FALSE
+653,Flemish Giant rabbit,conejo,20,hembra,mediano,TRUE,TRUE,FALSE,71,FALSE
+654,Netherland Dwarf rabbit,conejo,5,macho,mediano,FALSE,TRUE,TRUE,35,FALSE
+655,Flemish Giant rabbit,conejo,4,hembra,mediano,FALSE,FALSE,TRUE,80,FALSE
+656,Scottish Fold cat,gato,13,hembra,mediano,TRUE,TRUE,FALSE,81,FALSE
+657,Flemish Giant rabbit,conejo,19,hembra,mediano,TRUE,TRUE,TRUE,64,FALSE
+658,Mini Rex rabbit,conejo,15,macho,pequeño,FALSE,TRUE,FALSE,66,FALSE
+659,Maine Coon cat,gato,16,macho,pequeño,FALSE,FALSE,FALSE,43,FALSE
+660,Scottish Fold cat,gato,14,hembra,mediano,TRUE,TRUE,TRUE,44,FALSE
+661,Siberian Husky,perro,5,macho,pequeño,FALSE,FALSE,TRUE,77,FALSE
+662,Golden Retriever,perro,19,hembra,grande,FALSE,FALSE,FALSE,79,FALSE
+663,Poodle,conejo,12,hembra,pequeño,FALSE,FALSE,TRUE,50,FALSE
+664,German Shepherd,perro,16,macho,mediano,TRUE,TRUE,FALSE,26,FALSE
+665,Netherland Dwarf rabbit,conejo,5,macho,pequeño,TRUE,TRUE,FALSE,76,FALSE
+666,Siamese cat,gato,17,hembra,mediano,TRUE,TRUE,TRUE,71,FALSE
+667,Siamese cat,gato,4,hembra,pequeño,FALSE,TRUE,TRUE,27,FALSE
+668,Mini Rex rabbit,conejo,6,hembra,pequeño,TRUE,TRUE,TRUE,12,FALSE
+669,Siberian Husky,perro,12,macho,pequeño,FALSE,TRUE,TRUE,88,FALSE
+670,Dutch rabbit,conejo,4,hembra,grande,TRUE,FALSE,TRUE,13,FALSE
+671,German Shepherd,perro,11,hembra,mediano,FALSE,FALSE,TRUE,72,FALSE
+672,Golden Retriever,perro,15,hembra,grande,TRUE,FALSE,FALSE,31,FALSE
+673,Maine Coon cat,gato,10,macho,grande,TRUE,TRUE,TRUE,53,FALSE
+674,Netherland Dwarf rabbit,conejo,16,hembra,pequeño,FALSE,TRUE,TRUE,11,FALSE
+675,German Shepherd,perro,17,macho,grande,FALSE,TRUE,TRUE,54,FALSE
+676,Siberian Husky,perro,12,hembra,mediano,FALSE,FALSE,TRUE,60,FALSE
+677,Holland Lop rabbit,conejo,8,macho,mediano,FALSE,FALSE,FALSE,18,FALSE
+678,Scottish Fold cat,gato,15,hembra,mediano,FALSE,FALSE,FALSE,47,FALSE
+679,Dutch rabbit,conejo,15,macho,grande,FALSE,FALSE,FALSE,11,FALSE
+680,Flemish Giant rabbit,conejo,6,hembra,pequeño,FALSE,TRUE,TRUE,62,FALSE
+681,Golden Retriever,perro,18,macho,mediano,FALSE,TRUE,TRUE,27,FALSE
+682,Mini Rex rabbit,conejo,11,hembra,grande,TRUE,TRUE,TRUE,74,FALSE
+683,Siberian Husky,perro,14,macho,mediano,FALSE,TRUE,TRUE,80,FALSE
+684,Holland Lop rabbit,conejo,9,macho,grande,TRUE,FALSE,TRUE,68,FALSE
+685,Persian cat,conejo,16,hembra,grande,FALSE,FALSE,TRUE,29,FALSE
+686,Scottish Fold cat,gato,9,macho,grande,FALSE,TRUE,FALSE,7,FALSE
+687,Poodle,conejo,4,macho,pequeño,TRUE,FALSE,FALSE,90,FALSE
+688,Scottish Fold cat,gato,17,hembra,pequeño,FALSE,TRUE,TRUE,37,FALSE
+689,Poodle,conejo,12,hembra,pequeño,FALSE,TRUE,TRUE,69,FALSE
+690,Siberian Husky,perro,7,macho,grande,TRUE,FALSE,FALSE,66,FALSE
+691,Labrador Retriever,perro,8,macho,pequeño,TRUE,TRUE,FALSE,72,FALSE
+692,Flemish Giant rabbit,conejo,13,macho,grande,FALSE,FALSE,FALSE,31,FALSE
+693,Poodle,conejo,20,hembra,pequeño,FALSE,FALSE,FALSE,89,FALSE
+694,Maine Coon cat,gato,4,hembra,pequeño,TRUE,TRUE,TRUE,52,FALSE
+695,Poodle,conejo,7,macho,mediano,TRUE,FALSE,TRUE,55,FALSE
+696,Scottish Fold cat,gato,6,hembra,mediano,TRUE,TRUE,TRUE,46,FALSE
+697,Dutch rabbit,conejo,4,macho,grande,TRUE,FALSE,FALSE,70,FALSE
+698,German Shepherd,perro,12,hembra,pequeño,FALSE,FALSE,FALSE,25,FALSE
+699,Golden Retriever,perro,6,macho,mediano,FALSE,TRUE,TRUE,,TRUE
+700,Persian cat,conejo,18,hembra,grande,FALSE,TRUE,FALSE,79,FALSE
+701,Persian cat,conejo,15,hembra,grande,FALSE,FALSE,TRUE,29,FALSE
+702,Holland Lop rabbit,conejo,8,macho,mediano,TRUE,TRUE,TRUE,19,FALSE
+703,Labrador Retriever,perro,4,hembra,pequeño,TRUE,TRUE,TRUE,9,FALSE
+704,Labrador Retriever,perro,11,hembra,grande,FALSE,TRUE,TRUE,,TRUE
+705,Holland Lop rabbit,conejo,17,macho,mediano,FALSE,FALSE,FALSE,50,FALSE
+706,Poodle,conejo,16,hembra,grande,TRUE,FALSE,FALSE,13,FALSE
+707,Mini Rex rabbit,conejo,6,hembra,grande,FALSE,TRUE,TRUE,52,FALSE
+708,Maine Coon cat,gato,16,hembra,grande,FALSE,TRUE,TRUE,79,FALSE
+709,Flemish Giant rabbit,conejo,16,macho,pequeño,TRUE,TRUE,TRUE,53,FALSE
+710,Holland Lop rabbit,conejo,19,macho,mediano,TRUE,FALSE,FALSE,54,FALSE
+711,Flemish Giant rabbit,conejo,8,hembra,grande,FALSE,TRUE,FALSE,9,FALSE
+712,Siberian Husky,perro,4,macho,mediano,TRUE,TRUE,TRUE,13,FALSE
+713,Dutch rabbit,conejo,8,macho,grande,TRUE,TRUE,FALSE,18,FALSE
+714,Holland Lop rabbit,conejo,4,macho,grande,TRUE,TRUE,TRUE,42,FALSE
+715,Flemish Giant rabbit,conejo,11,macho,mediano,TRUE,FALSE,TRUE,77,FALSE
+716,Scottish Fold cat,gato,9,hembra,pequeño,FALSE,FALSE,TRUE,63,FALSE
+717,Persian cat,conejo,6,hembra,grande,FALSE,TRUE,TRUE,55,FALSE
+718,Persian cat,conejo,8,macho,mediano,TRUE,TRUE,FALSE,62,FALSE
+719,Golden Retriever,perro,20,hembra,grande,FALSE,FALSE,FALSE,63,FALSE
+720,Scottish Fold cat,gato,8,hembra,pequeño,FALSE,TRUE,TRUE,33,FALSE
+721,Flemish Giant rabbit,conejo,17,hembra,pequeño,TRUE,FALSE,FALSE,46,FALSE
+722,Bengal cat,gato,14,hembra,grande,FALSE,TRUE,FALSE,89,FALSE
+723,Mini Rex rabbit,conejo,17,hembra,grande,FALSE,FALSE,FALSE,71,FALSE
+724,Siberian Husky,perro,17,hembra,mediano,FALSE,FALSE,TRUE,85,FALSE
+725,Dutch rabbit,conejo,8,macho,grande,FALSE,FALSE,TRUE,21,FALSE
+726,Labrador Retriever,perro,12,hembra,pequeño,FALSE,TRUE,FALSE,22,FALSE
+727,Labrador Retriever,perro,14,macho,pequeño,FALSE,FALSE,TRUE,48,FALSE
+728,Labrador Retriever,perro,14,macho,grande,TRUE,TRUE,FALSE,67,FALSE
+729,Dutch rabbit,conejo,8,macho,grande,TRUE,TRUE,TRUE,85,FALSE
+730,Scottish Fold cat,gato,7,hembra,mediano,TRUE,FALSE,TRUE,21,FALSE
+731,Mini Rex rabbit,conejo,13,hembra,pequeño,FALSE,TRUE,TRUE,,TRUE
+732,Mini Rex rabbit,conejo,5,macho,pequeño,FALSE,TRUE,FALSE,28,FALSE
+733,Flemish Giant rabbit,conejo,14,macho,pequeño,TRUE,FALSE,TRUE,64,FALSE
+734,Persian cat,conejo,11,macho,grande,TRUE,TRUE,FALSE,89,FALSE
+735,Bengal cat,gato,9,hembra,grande,TRUE,TRUE,FALSE,73,FALSE
+736,Scottish Fold cat,gato,10,hembra,grande,FALSE,FALSE,FALSE,26,FALSE
+737,Flemish Giant rabbit,conejo,15,hembra,mediano,FALSE,FALSE,FALSE,89,FALSE
+738,Siamese cat,gato,5,hembra,grande,TRUE,TRUE,TRUE,89,FALSE
+739,Mini Rex rabbit,conejo,8,macho,mediano,TRUE,TRUE,TRUE,46,FALSE
+740,Poodle,conejo,16,macho,pequeño,FALSE,FALSE,FALSE,85,FALSE
+741,Netherland Dwarf rabbit,conejo,19,macho,pequeño,FALSE,FALSE,TRUE,70,FALSE
+742,Maine Coon cat,gato,13,hembra,pequeño,FALSE,FALSE,TRUE,37,FALSE
+743,Mini Rex rabbit,conejo,8,macho,pequeño,FALSE,TRUE,TRUE,5,FALSE
+744,Persian cat,conejo,14,macho,pequeño,FALSE,FALSE,TRUE,13,FALSE
+745,Golden Retriever,perro,10,hembra,mediano,FALSE,FALSE,TRUE,89,FALSE
+746,Bengal cat,gato,5,hembra,pequeño,FALSE,TRUE,TRUE,63,FALSE
+747,Golden Retriever,perro,12,macho,mediano,TRUE,FALSE,FALSE,48,FALSE
+748,Golden Retriever,perro,18,hembra,grande,FALSE,TRUE,FALSE,28,FALSE
+749,Flemish Giant rabbit,conejo,8,macho,pequeño,FALSE,FALSE,FALSE,39,FALSE
+750,Persian cat,conejo,12,macho,grande,TRUE,TRUE,TRUE,60,FALSE
+751,Mini Rex rabbit,conejo,14,hembra,grande,TRUE,FALSE,TRUE,86,FALSE
+752,Persian cat,conejo,13,macho,pequeño,FALSE,TRUE,TRUE,52,FALSE
+753,Maine Coon cat,gato,10,hembra,grande,FALSE,TRUE,FALSE,78,FALSE
+754,Mini Rex rabbit,conejo,20,hembra,pequeño,FALSE,FALSE,FALSE,82,FALSE
+755,Golden Retriever,perro,12,macho,mediano,TRUE,TRUE,TRUE,,TRUE
+756,Netherland Dwarf rabbit,conejo,16,hembra,grande,TRUE,TRUE,FALSE,24,FALSE
+757,Labrador Retriever,perro,8,macho,mediano,FALSE,TRUE,TRUE,73,FALSE
+758,German Shepherd,perro,10,hembra,mediano,TRUE,FALSE,TRUE,80,FALSE
+759,Scottish Fold cat,gato,17,macho,grande,TRUE,TRUE,TRUE,74,FALSE
+760,German Shepherd,perro,19,macho,mediano,FALSE,TRUE,TRUE,81,FALSE
+761,Golden Retriever,perro,7,macho,pequeño,TRUE,TRUE,FALSE,,TRUE
+762,Scottish Fold cat,gato,12,macho,mediano,FALSE,TRUE,FALSE,51,FALSE
+763,Labrador Retriever,perro,20,hembra,pequeño,TRUE,FALSE,FALSE,63,FALSE
+764,Maine Coon cat,gato,6,macho,mediano,FALSE,FALSE,TRUE,85,FALSE
+765,Golden Retriever,perro,19,hembra,grande,FALSE,FALSE,TRUE,59,FALSE
+766,Dutch rabbit,conejo,13,macho,pequeño,TRUE,TRUE,FALSE,45,FALSE
+767,Netherland Dwarf rabbit,conejo,15,macho,pequeño,TRUE,TRUE,TRUE,34,FALSE
+768,Scottish Fold cat,gato,19,macho,pequeño,FALSE,FALSE,TRUE,83,FALSE
+769,Bengal cat,gato,7,hembra,grande,TRUE,TRUE,TRUE,78,FALSE
+770,Mini Rex rabbit,conejo,13,hembra,mediano,FALSE,FALSE,FALSE,63,FALSE
+771,Maine Coon cat,gato,8,hembra,mediano,TRUE,FALSE,FALSE,62,FALSE
+772,Labrador Retriever,perro,5,hembra,mediano,FALSE,FALSE,FALSE,6,FALSE
+773,Dutch rabbit,conejo,20,macho,grande,TRUE,TRUE,TRUE,47,FALSE
+774,Golden Retriever,perro,17,hembra,grande,TRUE,FALSE,FALSE,62,FALSE
+775,Poodle,conejo,9,macho,grande,TRUE,FALSE,TRUE,21,FALSE
+776,Poodle,conejo,12,macho,mediano,FALSE,TRUE,TRUE,19,FALSE
+777,Golden Retriever,perro,6,hembra,mediano,TRUE,FALSE,FALSE,48,FALSE
+778,Poodle,conejo,17,macho,mediano,TRUE,TRUE,TRUE,81,FALSE
+779,Persian cat,conejo,5,macho,pequeño,TRUE,TRUE,TRUE,73,FALSE
+780,Siamese cat,gato,11,macho,mediano,TRUE,FALSE,FALSE,36,FALSE
+781,German Shepherd,perro,6,macho,pequeño,TRUE,TRUE,TRUE,17,FALSE
+782,Maine Coon cat,gato,18,macho,pequeño,TRUE,FALSE,TRUE,24,FALSE
+783,Bengal cat,gato,5,hembra,pequeño,TRUE,FALSE,TRUE,15,FALSE
+784,German Shepherd,perro,5,hembra,grande,TRUE,TRUE,TRUE,75,FALSE
+785,Maine Coon cat,gato,15,hembra,pequeño,TRUE,FALSE,TRUE,35,FALSE
+786,Bengal cat,gato,13,hembra,pequeño,FALSE,FALSE,FALSE,17,FALSE
+787,Golden Retriever,perro,17,hembra,grande,FALSE,FALSE,FALSE,69,FALSE
+788,Scottish Fold cat,gato,9,hembra,pequeño,TRUE,TRUE,FALSE,9,FALSE
+789,Labrador Retriever,perro,9,macho,grande,TRUE,FALSE,TRUE,90,FALSE
+790,Netherland Dwarf rabbit,conejo,8,macho,grande,FALSE,FALSE,FALSE,13,FALSE
+791,Persian cat,conejo,9,hembra,pequeño,TRUE,FALSE,FALSE,81,FALSE
+792,Holland Lop rabbit,conejo,20,macho,pequeño,FALSE,FALSE,TRUE,58,FALSE
+793,Siberian Husky,perro,12,hembra,mediano,TRUE,FALSE,FALSE,36,FALSE
+794,Scottish Fold cat,gato,19,hembra,grande,FALSE,FALSE,TRUE,48,FALSE
+795,Flemish Giant rabbit,conejo,19,macho,mediano,FALSE,TRUE,FALSE,55,FALSE
+796,Siberian Husky,perro,7,macho,grande,TRUE,TRUE,TRUE,67,FALSE
+797,Bengal cat,gato,5,hembra,mediano,TRUE,FALSE,FALSE,42,FALSE
+798,Golden Retriever,perro,18,hembra,grande,FALSE,FALSE,TRUE,38,FALSE
+799,Maine Coon cat,gato,11,hembra,pequeño,TRUE,TRUE,TRUE,33,FALSE
+800,Labrador Retriever,perro,5,hembra,grande,FALSE,FALSE,TRUE,23,FALSE
+801,Persian cat,conejo,7,macho,pequeño,TRUE,TRUE,TRUE,40,FALSE
+802,Siberian Husky,perro,6,macho,mediano,FALSE,TRUE,FALSE,16,FALSE
+803,Poodle,conejo,10,hembra,mediano,TRUE,TRUE,TRUE,62,FALSE
+804,Siamese cat,gato,15,macho,grande,FALSE,FALSE,FALSE,65,FALSE
+805,Siamese cat,gato,8,hembra,mediano,FALSE,TRUE,TRUE,74,FALSE
+806,Siberian Husky,perro,10,macho,pequeño,TRUE,TRUE,FALSE,14,FALSE
+807,Bengal cat,gato,16,hembra,mediano,FALSE,TRUE,TRUE,63,FALSE
+808,German Shepherd,perro,9,macho,mediano,TRUE,FALSE,FALSE,48,FALSE
+809,Mini Rex rabbit,conejo,15,hembra,pequeño,FALSE,TRUE,FALSE,55,FALSE
+810,Bengal cat,gato,19,macho,pequeño,FALSE,FALSE,TRUE,72,FALSE
+811,Siberian Husky,perro,14,hembra,grande,FALSE,TRUE,TRUE,26,FALSE
+812,Maine Coon cat,gato,18,hembra,pequeño,TRUE,FALSE,FALSE,50,FALSE
+813,Bengal cat,gato,19,macho,grande,FALSE,TRUE,FALSE,75,FALSE
+814,Bengal cat,gato,16,hembra,pequeño,TRUE,FALSE,FALSE,82,FALSE
+815,Mini Rex rabbit,conejo,7,macho,pequeño,FALSE,FALSE,TRUE,60,FALSE
+816,Mini Rex rabbit,conejo,10,hembra,mediano,TRUE,TRUE,TRUE,27,FALSE
+817,Bengal cat,gato,13,hembra,mediano,TRUE,TRUE,TRUE,8,FALSE
+818,Maine Coon cat,gato,10,hembra,grande,TRUE,FALSE,TRUE,11,FALSE
+819,Persian cat,conejo,9,hembra,mediano,FALSE,FALSE,TRUE,24,FALSE
+820,Siberian Husky,perro,19,hembra,pequeño,FALSE,FALSE,TRUE,19,FALSE
+821,Maine Coon cat,gato,11,hembra,mediano,TRUE,FALSE,FALSE,46,FALSE
+822,Poodle,conejo,4,macho,mediano,TRUE,FALSE,FALSE,67,FALSE
+823,German Shepherd,perro,12,macho,pequeño,TRUE,TRUE,TRUE,88,FALSE
+824,Bengal cat,gato,17,macho,pequeño,TRUE,FALSE,FALSE,48,FALSE
+825,Siamese cat,gato,14,macho,pequeño,FALSE,TRUE,FALSE,6,FALSE
+826,Bengal cat,gato,6,hembra,grande,FALSE,TRUE,FALSE,74,FALSE
+827,Golden Retriever,perro,12,hembra,pequeño,TRUE,TRUE,FALSE,40,FALSE
+828,German Shepherd,perro,5,macho,mediano,FALSE,TRUE,TRUE,10,FALSE
+829,Poodle,conejo,8,hembra,mediano,FALSE,FALSE,TRUE,52,FALSE
+830,Netherland Dwarf rabbit,conejo,9,hembra,pequeño,FALSE,FALSE,FALSE,14,FALSE
+831,Flemish Giant rabbit,conejo,9,macho,grande,FALSE,TRUE,FALSE,86,FALSE
+832,Scottish Fold cat,gato,17,hembra,grande,FALSE,FALSE,TRUE,51,FALSE
+833,Labrador Retriever,perro,12,hembra,mediano,TRUE,FALSE,TRUE,10,FALSE
+834,Persian cat,conejo,18,hembra,mediano,FALSE,FALSE,FALSE,31,FALSE
+835,Flemish Giant rabbit,conejo,20,macho,grande,TRUE,TRUE,TRUE,42,FALSE
+836,German Shepherd,perro,18,hembra,pequeño,TRUE,FALSE,FALSE,,TRUE
+837,Maine Coon cat,gato,12,macho,grande,TRUE,FALSE,TRUE,5,FALSE
+838,Siamese cat,gato,13,macho,pequeño,TRUE,TRUE,FALSE,13,FALSE
+839,Netherland Dwarf rabbit,conejo,12,hembra,mediano,TRUE,FALSE,TRUE,35,FALSE
+840,Siamese cat,gato,8,macho,grande,TRUE,FALSE,TRUE,89,FALSE
+841,Labrador Retriever,perro,18,macho,mediano,FALSE,TRUE,TRUE,31,FALSE
+842,Holland Lop rabbit,conejo,17,macho,grande,TRUE,TRUE,FALSE,62,FALSE
+843,Siamese cat,gato,16,hembra,grande,FALSE,FALSE,TRUE,50,FALSE
+844,Persian cat,conejo,6,hembra,grande,FALSE,FALSE,TRUE,12,FALSE
+845,Flemish Giant rabbit,conejo,17,macho,mediano,TRUE,TRUE,FALSE,6,FALSE
+846,Persian cat,conejo,6,macho,mediano,FALSE,FALSE,FALSE,59,FALSE
+847,Persian cat,conejo,12,macho,mediano,TRUE,TRUE,TRUE,80,FALSE
+848,German Shepherd,perro,5,hembra,pequeño,TRUE,TRUE,FALSE,60,FALSE
+849,Maine Coon cat,gato,12,macho,pequeño,TRUE,FALSE,FALSE,73,FALSE
+850,Scottish Fold cat,gato,19,hembra,grande,TRUE,FALSE,FALSE,79,FALSE
+851,Holland Lop rabbit,conejo,20,macho,grande,FALSE,TRUE,TRUE,12,FALSE
+852,Labrador Retriever,perro,15,macho,mediano,TRUE,TRUE,FALSE,61,FALSE
+853,Holland Lop rabbit,conejo,9,macho,mediano,FALSE,TRUE,FALSE,87,FALSE
+854,Maine Coon cat,gato,12,macho,pequeño,TRUE,TRUE,TRUE,28,FALSE
+855,Labrador Retriever,perro,11,macho,pequeño,TRUE,TRUE,FALSE,39,FALSE
+856,Poodle,conejo,18,hembra,mediano,TRUE,TRUE,FALSE,21,FALSE
+857,Poodle,conejo,13,macho,pequeño,FALSE,TRUE,TRUE,25,FALSE
+858,Dutch rabbit,conejo,5,hembra,pequeño,TRUE,FALSE,TRUE,49,FALSE
+859,Netherland Dwarf rabbit,conejo,17,macho,grande,FALSE,TRUE,TRUE,23,FALSE
+860,Scottish Fold cat,gato,5,hembra,pequeño,TRUE,FALSE,FALSE,79,FALSE
+861,Holland Lop rabbit,conejo,12,hembra,grande,FALSE,FALSE,FALSE,9,FALSE
+862,Netherland Dwarf rabbit,conejo,8,hembra,grande,FALSE,FALSE,FALSE,46,FALSE
+863,Persian cat,conejo,20,hembra,grande,TRUE,FALSE,TRUE,62,FALSE
+864,Siberian Husky,perro,7,hembra,grande,TRUE,TRUE,FALSE,74,FALSE
+865,Flemish Giant rabbit,conejo,5,hembra,grande,FALSE,FALSE,FALSE,,TRUE
+866,Bengal cat,gato,5,hembra,mediano,TRUE,FALSE,TRUE,41,FALSE
+867,Scottish Fold cat,gato,8,macho,grande,TRUE,FALSE,FALSE,,TRUE
+868,Maine Coon cat,gato,11,macho,grande,FALSE,TRUE,FALSE,49,FALSE
+869,Poodle,conejo,7,hembra,mediano,FALSE,TRUE,FALSE,76,FALSE
+870,Poodle,conejo,20,macho,grande,TRUE,FALSE,FALSE,73,FALSE
+871,Siberian Husky,perro,10,hembra,mediano,TRUE,FALSE,FALSE,42,FALSE
+872,Flemish Giant rabbit,conejo,13,hembra,grande,FALSE,TRUE,FALSE,9,FALSE
+873,Bengal cat,gato,20,hembra,grande,FALSE,FALSE,TRUE,75,FALSE
+874,Bengal cat,gato,11,macho,pequeño,FALSE,FALSE,FALSE,46,FALSE
+875,Bengal cat,gato,16,macho,mediano,TRUE,FALSE,FALSE,40,FALSE
+876,Holland Lop rabbit,conejo,17,macho,pequeño,TRUE,FALSE,FALSE,89,FALSE
+877,Maine Coon cat,gato,13,macho,grande,TRUE,TRUE,TRUE,75,FALSE
+878,Scottish Fold cat,gato,18,macho,grande,FALSE,FALSE,TRUE,46,FALSE
+879,Siamese cat,gato,19,macho,grande,FALSE,TRUE,FALSE,28,FALSE
+880,Golden Retriever,perro,15,macho,pequeño,FALSE,TRUE,FALSE,29,FALSE
+881,Mini Rex rabbit,conejo,16,macho,grande,FALSE,TRUE,TRUE,89,FALSE
+882,Mini Rex rabbit,conejo,8,macho,grande,TRUE,TRUE,TRUE,58,FALSE
+883,Siberian Husky,perro,14,hembra,pequeño,TRUE,FALSE,FALSE,57,FALSE
+884,Bengal cat,gato,11,hembra,pequeño,TRUE,FALSE,TRUE,53,FALSE
+885,German Shepherd,perro,14,hembra,pequeño,FALSE,FALSE,FALSE,43,FALSE
+886,Labrador Retriever,perro,6,macho,mediano,TRUE,TRUE,FALSE,10,FALSE
+887,Labrador Retriever,perro,4,macho,grande,FALSE,FALSE,FALSE,36,FALSE
+888,Poodle,conejo,19,macho,mediano,TRUE,TRUE,TRUE,79,FALSE
+889,Labrador Retriever,perro,18,macho,pequeño,FALSE,FALSE,FALSE,52,FALSE
+890,Mini Rex rabbit,conejo,14,macho,grande,FALSE,FALSE,FALSE,68,FALSE
+891,Siamese cat,gato,7,macho,pequeño,FALSE,FALSE,FALSE,19,FALSE
+892,Poodle,conejo,12,hembra,mediano,TRUE,TRUE,TRUE,20,FALSE
+893,Persian cat,conejo,14,macho,grande,FALSE,TRUE,TRUE,84,FALSE
+894,Scottish Fold cat,gato,6,macho,pequeño,FALSE,FALSE,FALSE,,TRUE
+895,Persian cat,conejo,6,macho,mediano,FALSE,FALSE,FALSE,31,FALSE
+896,Poodle,conejo,7,macho,pequeño,TRUE,FALSE,TRUE,44,FALSE
+897,Netherland Dwarf rabbit,conejo,11,hembra,grande,TRUE,TRUE,FALSE,,TRUE
+898,Netherland Dwarf rabbit,conejo,7,macho,grande,TRUE,TRUE,FALSE,81,FALSE
+899,Maine Coon cat,gato,19,macho,grande,FALSE,TRUE,FALSE,19,FALSE
+900,Persian cat,conejo,20,macho,grande,FALSE,FALSE,TRUE,18,FALSE
+901,Bengal cat,gato,19,hembra,mediano,TRUE,TRUE,FALSE,59,FALSE
+902,Siberian Husky,perro,11,macho,pequeño,TRUE,TRUE,FALSE,32,FALSE
+903,Holland Lop rabbit,conejo,20,hembra,pequeño,TRUE,FALSE,TRUE,52,FALSE
+904,Netherland Dwarf rabbit,conejo,4,hembra,pequeño,TRUE,FALSE,FALSE,34,FALSE
+905,German Shepherd,perro,7,macho,grande,TRUE,TRUE,FALSE,28,FALSE
+906,Dutch rabbit,conejo,5,hembra,mediano,FALSE,FALSE,TRUE,6,FALSE
+907,Mini Rex rabbit,conejo,4,hembra,mediano,FALSE,FALSE,FALSE,68,FALSE
+908,Siberian Husky,perro,15,hembra,pequeño,FALSE,FALSE,TRUE,9,FALSE
+909,Maine Coon cat,gato,19,hembra,mediano,FALSE,TRUE,TRUE,37,FALSE
+910,Siamese cat,gato,13,macho,mediano,TRUE,TRUE,TRUE,51,FALSE
+911,Dutch rabbit,conejo,13,hembra,pequeño,FALSE,FALSE,TRUE,40,FALSE
+912,Dutch rabbit,conejo,8,macho,pequeño,TRUE,TRUE,FALSE,20,FALSE
+913,Persian cat,conejo,19,macho,mediano,FALSE,FALSE,TRUE,23,FALSE
+914,Siamese cat,gato,15,hembra,mediano,FALSE,TRUE,FALSE,16,FALSE
+915,Flemish Giant rabbit,conejo,13,macho,pequeño,FALSE,TRUE,FALSE,,TRUE
+916,Golden Retriever,perro,20,macho,pequeño,FALSE,TRUE,FALSE,79,FALSE
+917,Poodle,conejo,11,hembra,pequeño,FALSE,FALSE,FALSE,88,FALSE
+918,Golden Retriever,perro,13,hembra,grande,TRUE,TRUE,FALSE,75,FALSE
+919,Bengal cat,gato,16,macho,mediano,FALSE,FALSE,TRUE,17,FALSE
+920,Dutch rabbit,conejo,5,macho,grande,TRUE,FALSE,TRUE,87,FALSE
+921,German Shepherd,perro,5,macho,grande,TRUE,TRUE,TRUE,24,FALSE
+922,Golden Retriever,perro,12,macho,pequeño,FALSE,FALSE,TRUE,49,FALSE
+923,Flemish Giant rabbit,conejo,10,macho,mediano,TRUE,TRUE,FALSE,77,FALSE
+924,Scottish Fold cat,gato,13,hembra,mediano,FALSE,TRUE,TRUE,72,FALSE
+925,Golden Retriever,perro,6,macho,pequeño,TRUE,FALSE,FALSE,88,FALSE
+926,Netherland Dwarf rabbit,conejo,4,hembra,grande,TRUE,FALSE,FALSE,51,FALSE
+927,Bengal cat,gato,19,macho,grande,FALSE,TRUE,TRUE,67,FALSE
+928,Flemish Giant rabbit,conejo,14,hembra,pequeño,TRUE,FALSE,TRUE,45,FALSE
+929,Flemish Giant rabbit,conejo,12,hembra,mediano,TRUE,TRUE,TRUE,47,FALSE
+930,Netherland Dwarf rabbit,conejo,13,macho,grande,TRUE,TRUE,FALSE,58,FALSE
+931,Bengal cat,gato,7,hembra,mediano,TRUE,FALSE,TRUE,86,FALSE
+932,Golden Retriever,perro,16,hembra,pequeño,FALSE,TRUE,TRUE,,TRUE
+933,Bengal cat,gato,5,hembra,mediano,FALSE,TRUE,TRUE,59,FALSE
+934,Labrador Retriever,perro,20,macho,mediano,TRUE,TRUE,TRUE,71,FALSE
+935,Bengal cat,gato,17,macho,grande,FALSE,TRUE,TRUE,53,FALSE
+936,Dutch rabbit,conejo,14,hembra,mediano,FALSE,TRUE,FALSE,63,FALSE
+937,Labrador Retriever,perro,12,hembra,grande,FALSE,FALSE,FALSE,23,FALSE
+938,Golden Retriever,perro,6,macho,grande,FALSE,FALSE,FALSE,7,FALSE
+939,Labrador Retriever,perro,11,macho,mediano,TRUE,FALSE,FALSE,,TRUE
+940,Persian cat,conejo,11,hembra,mediano,TRUE,FALSE,FALSE,47,FALSE
+941,Bengal cat,gato,16,hembra,pequeño,FALSE,TRUE,FALSE,67,FALSE
+942,Bengal cat,gato,4,hembra,grande,TRUE,FALSE,FALSE,71,FALSE
+943,Scottish Fold cat,gato,11,macho,mediano,FALSE,FALSE,FALSE,47,FALSE
+944,Dutch rabbit,conejo,6,macho,mediano,FALSE,FALSE,FALSE,77,FALSE
+945,Golden Retriever,perro,11,hembra,mediano,TRUE,TRUE,FALSE,43,FALSE
+946,Netherland Dwarf rabbit,conejo,12,hembra,pequeño,TRUE,FALSE,FALSE,28,FALSE
+947,Siamese cat,gato,15,macho,pequeño,FALSE,FALSE,TRUE,28,FALSE
+948,Flemish Giant rabbit,conejo,5,hembra,pequeño,FALSE,FALSE,FALSE,24,FALSE
+949,Netherland Dwarf rabbit,conejo,15,macho,grande,FALSE,FALSE,TRUE,81,FALSE
+950,Bengal cat,gato,4,hembra,pequeño,TRUE,FALSE,FALSE,31,FALSE
+951,Netherland Dwarf rabbit,conejo,8,macho,grande,FALSE,FALSE,FALSE,57,FALSE
+952,Mini Rex rabbit,conejo,12,hembra,mediano,FALSE,FALSE,FALSE,62,FALSE
+953,Poodle,conejo,16,macho,pequeño,FALSE,FALSE,TRUE,64,FALSE
+954,Persian cat,conejo,15,macho,grande,FALSE,TRUE,FALSE,38,FALSE
+955,Dutch rabbit,conejo,15,macho,pequeño,TRUE,FALSE,FALSE,27,FALSE
+956,Flemish Giant rabbit,conejo,20,macho,mediano,FALSE,TRUE,TRUE,6,FALSE
+957,Persian cat,conejo,20,hembra,pequeño,FALSE,TRUE,FALSE,85,FALSE
+958,Persian cat,conejo,17,hembra,pequeño,TRUE,FALSE,FALSE,37,FALSE
+959,German Shepherd,perro,11,hembra,mediano,TRUE,FALSE,TRUE,16,FALSE
+960,Flemish Giant rabbit,conejo,11,hembra,pequeño,TRUE,TRUE,FALSE,5,FALSE
+961,Persian cat,conejo,13,macho,grande,TRUE,TRUE,FALSE,88,FALSE
+962,Holland Lop rabbit,conejo,10,hembra,grande,TRUE,FALSE,TRUE,17,FALSE
+963,Maine Coon cat,gato,8,macho,mediano,FALSE,FALSE,TRUE,35,FALSE
+964,Persian cat,conejo,16,hembra,pequeño,TRUE,FALSE,FALSE,,TRUE
+965,Maine Coon cat,gato,20,hembra,mediano,TRUE,TRUE,FALSE,76,FALSE
+966,Mini Rex rabbit,conejo,6,hembra,grande,TRUE,FALSE,FALSE,26,FALSE
+967,Flemish Giant rabbit,conejo,20,macho,mediano,TRUE,TRUE,FALSE,73,FALSE
+968,Labrador Retriever,perro,6,macho,pequeño,FALSE,FALSE,FALSE,16,FALSE
+969,Mini Rex rabbit,conejo,9,hembra,grande,FALSE,FALSE,FALSE,23,FALSE
+970,Flemish Giant rabbit,conejo,10,macho,mediano,FALSE,FALSE,FALSE,37,FALSE
+971,Siberian Husky,perro,13,hembra,mediano,TRUE,FALSE,FALSE,74,FALSE
+972,Bengal cat,gato,5,macho,mediano,FALSE,TRUE,TRUE,53,FALSE
+973,Siberian Husky,perro,20,macho,mediano,FALSE,TRUE,FALSE,85,FALSE
+974,Scottish Fold cat,gato,18,hembra,grande,TRUE,FALSE,TRUE,21,FALSE
+975,Dutch rabbit,conejo,11,hembra,grande,FALSE,FALSE,FALSE,85,FALSE
+976,Bengal cat,gato,9,hembra,mediano,FALSE,FALSE,FALSE,27,FALSE
+977,Bengal cat,gato,12,macho,grande,TRUE,TRUE,FALSE,59,FALSE
+978,Bengal cat,gato,20,macho,grande,TRUE,FALSE,FALSE,10,FALSE
+979,Mini Rex rabbit,conejo,16,hembra,grande,TRUE,TRUE,TRUE,48,FALSE
+980,Scottish Fold cat,gato,17,macho,grande,TRUE,TRUE,FALSE,30,FALSE
+981,Siamese cat,gato,17,hembra,mediano,FALSE,FALSE,FALSE,75,FALSE
+982,Siberian Husky,perro,20,macho,mediano,TRUE,TRUE,TRUE,63,FALSE
+983,Holland Lop rabbit,conejo,8,hembra,mediano,FALSE,FALSE,FALSE,60,FALSE
+984,Bengal cat,gato,4,hembra,pequeño,TRUE,FALSE,TRUE,84,FALSE
+985,Poodle,conejo,7,hembra,pequeño,TRUE,TRUE,FALSE,45,FALSE
+986,Mini Rex rabbit,conejo,5,macho,mediano,TRUE,TRUE,TRUE,24,FALSE
+987,Persian cat,conejo,11,hembra,grande,TRUE,FALSE,FALSE,24,FALSE
+988,Labrador Retriever,perro,20,macho,pequeño,TRUE,FALSE,TRUE,77,FALSE
+989,Golden Retriever,perro,19,hembra,pequeño,FALSE,FALSE,FALSE,31,FALSE
+990,Mini Rex rabbit,conejo,12,hembra,grande,TRUE,TRUE,FALSE,62,FALSE
+991,Holland Lop rabbit,conejo,20,hembra,mediano,FALSE,TRUE,TRUE,90,FALSE
+992,Scottish Fold cat,gato,10,macho,mediano,FALSE,FALSE,FALSE,84,FALSE
+993,Scottish Fold cat,gato,20,macho,grande,TRUE,FALSE,TRUE,26,FALSE
+994,Labrador Retriever,perro,12,macho,grande,FALSE,FALSE,FALSE,52,FALSE
+995,Maine Coon cat,gato,4,macho,mediano,FALSE,TRUE,FALSE,53,FALSE
+996,Dutch rabbit,conejo,11,hembra,mediano,FALSE,FALSE,TRUE,66,FALSE
+997,Persian cat,conejo,9,hembra,grande,TRUE,TRUE,FALSE,16,FALSE
+998,Siamese cat,gato,10,macho,pequeño,TRUE,TRUE,FALSE,41,FALSE
+999,Siberian Husky,perro,16,macho,mediano,FALSE,TRUE,FALSE,35,FALSE
+1000,Bengal cat,gato,20,hembra,pequeño,TRUE,FALSE,TRUE,27,FALSE
