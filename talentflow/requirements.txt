@@ -5,3 +5,9 @@ psycopg2-binary
 openai
 ollama
 numpy
+pandas
+scikit-learn
+tensorflow
+keras
+matplotlib
+nltk
