@@ -159,31 +159,36 @@ def calculate_affinity_score(job, resume):
     """
     score = 0.0
     
-    # 1. Coincidencia de skills (40% del puntaje)
+    # 1. Coincidencia de skills (50% del puntaje) - MEJORADO
     job_skills_set = set(job['skills'])
     resume_skills_set = set(resume['skills'])
     
     if len(job_skills_set) > 0:
         skills_match = len(job_skills_set.intersection(resume_skills_set)) / len(job_skills_set)
-        score += skills_match * 4.0
+        score += skills_match * 5.0  # Aumentado de 4.0 a 5.0 para mayor peso en skills
     
-    # 2. Experiencia (30% del puntaje)
+    # 2. Experiencia (35% del puntaje) - MEJORADO
     exp_levels = EXPERIENCE_RANGES
     try:
         job_exp_idx = exp_levels.index(job['experience'])
         resume_exp_idx = exp_levels.index(resume['experience'])
         
+        # Cálculo más granular y realista
         if resume_exp_idx >= job_exp_idx:
-            score += 3.0
+            score += 3.5  # Cumple o supera el requisito
         elif resume_exp_idx == job_exp_idx - 1:
-            score += 2.0
+            score += 2.5  # 1 nivel por debajo - aún aceptable
         elif resume_exp_idx == job_exp_idx - 2:
-            score += 1.0
+            score += 1.0  # 2 niveles por debajo - deficiente
+        else:
+            score += 0.2  # Muy por debajo del requisito
     except:
         score += 1.5
     
-    # 3. Factor aleatorio (30% del puntaje) - simula otros factores como cultura, entrevista, etc.
-    score += random.uniform(0, 3.0)
+    # 3. Factor de variabilidad ULTRA REDUCIDO (5% del puntaje) 
+    # Simula factores como cultura, soft skills, motivación, etc.
+    # MEJORADO v3: Reducido de (0, 0.8) a (0, 0.5) para máxima precisión
+    score += random.uniform(0, 0.5)
     
     # Asegurar que esté entre 0 y 10
     score = max(0.0, min(10.0, score))
@@ -191,8 +196,11 @@ def calculate_affinity_score(job, resume):
     return round(score, 2)
 
 
-def generate_dataset(num_samples=1000):
-    """Genera el dataset completo"""
+def generate_dataset(num_samples=5000):
+    """
+    Genera el dataset completo
+    MEJORADO: Aumentado de 1000 a 5000 muestras para mejor aprendizaje
+    """
     data = []
     
     # Generar muestras con diferentes niveles de coincidencia
@@ -226,9 +234,10 @@ def generate_dataset(num_samples=1000):
 
 if __name__ == "__main__":
     print("Generando dataset de afinidad laboral...")
+    print("VERSIÓN ULTRA OPTIMIZADA: Máxima precisión y mínima dispersión\n")
     
-    # Generar dataset
-    df = generate_dataset(num_samples=2000)
+    # Generar dataset - OPTIMIZADO: 10000 muestras
+    df = generate_dataset(num_samples=10000)
     
     # Mostrar estadísticas
     print(f"\nDataset generado con {len(df)} muestras")

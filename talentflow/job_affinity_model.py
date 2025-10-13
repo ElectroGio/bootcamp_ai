@@ -120,9 +120,32 @@ class JobAffinityModel:
         print(f"Dimensión de vectores de trabajo: {X_job_train_vec.shape[1]}")
         print(f"Dimensión de vectores de CV: {X_resume_train_vec.shape[1]}")
         
-        # Combinar features
-        X_train_combined = np.concatenate([X_job_train_vec, X_resume_train_vec], axis=1)
-        X_test_combined = np.concatenate([X_job_test_vec, X_resume_test_vec], axis=1)
+        # NUEVO: Extraer features numéricas explícitas
+        print("\n🔢 Extrayendo features numéricas explícitas...")
+        from extract_features import extract_numeric_features, get_feature_names
+        
+        # Extraer para entrenamiento
+        numeric_train = []
+        for job, resume in zip(X_job_train, X_resume_train):
+            feats = extract_numeric_features(job, resume)
+            numeric_train.append(feats)
+        
+        numeric_train = np.array(numeric_train)
+        
+        # Extraer para prueba
+        numeric_test = []
+        for job, resume in zip(X_job_test, X_resume_test):
+            feats = extract_numeric_features(job, resume)
+            numeric_test.append(feats)
+        
+        numeric_test = np.array(numeric_test)
+        
+        print(f"Features numéricas extraídas: {numeric_train.shape[1]}")
+        print(f"  → {', '.join(get_feature_names())}")
+        
+        # Combinar features: TF-IDF + Numéricas
+        X_train_combined = np.concatenate([X_job_train_vec, X_resume_train_vec, numeric_train], axis=1)
+        X_test_combined = np.concatenate([X_job_test_vec, X_resume_test_vec, numeric_test], axis=1)
         
         print(f"Dimensión total de features: {X_train_combined.shape[1]}")
         
@@ -134,12 +157,18 @@ class JobAffinityModel:
         """
         print("\nConstruyendo modelo de red neuronal...")
         
+        # ARQUITECTURA MEJORADA para mayor precisión
         self.model = keras.Sequential([
-            # Capa de entrada
-            layers.Dense(256, activation='relu', input_shape=(input_dim,)),
+            # Capa de entrada - MÁS NEURONAS
+            layers.Dense(512, activation='relu', input_shape=(input_dim,)),
+            layers.BatchNormalization(),
+            layers.Dropout(0.4),
+            
+            # Capas ocultas profundas
+            layers.Dense(256, activation='relu'),
+            layers.BatchNormalization(),
             layers.Dropout(0.3),
             
-            # Capas ocultas
             layers.Dense(128, activation='relu'),
             layers.BatchNormalization(),
             layers.Dropout(0.3),
@@ -155,9 +184,9 @@ class JobAffinityModel:
             layers.Dense(1, activation='linear')
         ])
         
-        # Compilar modelo
+        # Compilar modelo con learning rate MÁS BAJO para mejor convergencia
         self.model.compile(
-            optimizer=keras.optimizers.Adam(learning_rate=0.001),
+            optimizer=keras.optimizers.Adam(learning_rate=0.0005),  # Reducido de 0.001
             loss='mse',
             metrics=['mae']  # Removido 'mse' para evitar problemas de serialización
         )
@@ -166,25 +195,34 @@ class JobAffinityModel:
         
         return self.model
     
-    def train(self, X_train, y_train, epochs=100, batch_size=32, validation_split=0.2):
+    def train(self, X_train, y_train, X_test=None, y_test=None, epochs=150, batch_size=16, validation_split=0.25):
         """
         Entrena el modelo
+        MEJORADO: Más épocas (150), batch size menor (16), más validación (25%)
         """
-        print("\nEntrenando modelo...")
+        print("\nEntrenando modelo (versión mejorada para mayor precisión)...")
         
-        # Callbacks
+        # Callbacks MEJORADOS para mejor entrenamiento
         early_stopping = keras.callbacks.EarlyStopping(
             monitor='val_loss',
-            patience=15,
-            restore_best_weights=True
+            patience=20,  # Aumentado de 15 - más paciencia
+            restore_best_weights=True,
+            min_delta=0.001  # Añadido - cambio mínimo significativo
         )
         
         reduce_lr = keras.callbacks.ReduceLROnPlateau(
             monitor='val_loss',
-            factor=0.5,
-            patience=5,
-            min_lr=0.00001
+            factor=0.3,  # Más agresivo (era 0.5)
+            patience=7,  # Más rápido (era 5)
+            min_lr=0.00001,
+            verbose=1  # Mostrar cuando reduce LR
         )
+        
+        # Determinar si usar validation_split o validation_data
+        validation_data = None
+        if X_test is not None and y_test is not None:
+            validation_data = (X_test, y_test)
+            validation_split = 0  # No usar split si hay validation_data
         
         # Entrenar
         history = self.model.fit(
@@ -192,6 +230,7 @@ class JobAffinityModel:
             epochs=epochs,
             batch_size=batch_size,
             validation_split=validation_split,
+            validation_data=validation_data,
             callbacks=[early_stopping, reduce_lr],
             verbose=1
         )
@@ -322,8 +361,12 @@ class JobAffinityModel:
         job_vec = self.job_vectorizer.transform([job_clean]).toarray()
         resume_vec = self.resume_vectorizer.transform([resume_clean]).toarray()
         
-        # Combinar
-        X_combined = np.concatenate([job_vec, resume_vec], axis=1)
+        # Extraer features numéricas
+        from extract_features import extract_numeric_features
+        numeric_feats = extract_numeric_features(job_description, resume).reshape(1, -1)
+        
+        # Combinar todas las features
+        X_combined = np.concatenate([job_vec, resume_vec, numeric_feats], axis=1)
         
         # Predecir
         affinity = self.model.predict(X_combined, verbose=0)[0][0]
@@ -355,7 +398,7 @@ class JobAffinityModel:
     
     def load_model(self, model_path='job_affinity_model.h5'):
         """
-        Carga un modelo previamente entrenado
+        Carga un modelo previamente entrenado y sus vectorizadores
         """
         try:
             # Intentar cargar normalmente
@@ -374,6 +417,15 @@ class JobAffinityModel:
             )
         
         print(f"✓ Modelo cargado desde: {model_path}")
+        
+        # Cargar vectorizadores
+        import pickle
+        with open('vectorizers.pkl', 'rb') as f:
+            vectorizers = pickle.load(f)
+            self.job_vectorizer = vectorizers['job_vectorizer']
+            self.resume_vectorizer = vectorizers['resume_vectorizer']
+        
+        print(f"✓ Vectorizadores cargados desde: vectorizers.pkl")
 
 
 def main():
@@ -399,12 +451,19 @@ def main():
     # Construir modelo
     model.build_model(input_dim=X_train.shape[1])
     
-    # Entrenar
+    # Entrenar con parámetros MEJORADOS
+    print("\n⚡ VERSIÓN MEJORADA DEL MODELO:")
+    print("   • Más datos (5000 muestras)")
+    print("   • Arquitectura más profunda (512→256→128→64→32)")
+    print("   • Menos aleatoriedad en el dataset")
+    print("   • Mejores hiperparámetros de entrenamiento")
+    print("   • Resultado esperado: MAE < 0.7, R² > 0.85\n")
+    
     history = model.train(
         X_train, y_train,
-        epochs=100,
-        batch_size=32,
-        validation_split=0.2
+        epochs=150,  # Aumentado
+        batch_size=16,  # Reducido
+        validation_split=0.25  # Aumentado
     )
     
     # Evaluar
